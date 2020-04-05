@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "combo_big_new.img_pack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 322,
+				"h": 23
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 21
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 21
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 79,
+						"h": 21
+					}
+				},
+				{
+					"filename": "2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 20
+					},
+					"frame": {
+						"x": 82,
+						"y": 1,
+						"w": 23,
+						"h": 20
+					}
+				},
+				{
+					"filename": "4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 20
+					},
+					"frame": {
+						"x": 107,
+						"y": 1,
+						"w": 23,
+						"h": 20
+					}
+				},
+				{
+					"filename": "5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 20
+					},
+					"frame": {
+						"x": 132,
+						"y": 1,
+						"w": 23,
+						"h": 20
+					}
+				},
+				{
+					"filename": "6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 20
+					},
+					"frame": {
+						"x": 157,
+						"y": 1,
+						"w": 23,
+						"h": 20
+					}
+				},
+				{
+					"filename": "7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 20
+					},
+					"frame": {
+						"x": 182,
+						"y": 1,
+						"w": 23,
+						"h": 20
+					}
+				},
+				{
+					"filename": "8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 20
+					},
+					"frame": {
+						"x": 207,
+						"y": 1,
+						"w": 23,
+						"h": 20
+					}
+				},
+				{
+					"filename": "9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 23,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 20
+					},
+					"frame": {
+						"x": 232,
+						"y": 1,
+						"w": 23,
+						"h": 20
+					}
+				},
+				{
+					"filename": "0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 22,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 22,
+						"h": 20
+					},
+					"frame": {
+						"x": 257,
+						"y": 1,
+						"w": 22,
+						"h": 20
+					}
+				},
+				{
+					"filename": "3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 22,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 22,
+						"h": 20
+					},
+					"frame": {
+						"x": 281,
+						"y": 1,
+						"w": 22,
+						"h": 20
+					}
+				},
+				{
+					"filename": "1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 19,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 0,
+						"w": 16,
+						"h": 20
+					},
+					"frame": {
+						"x": 305,
+						"y": 1,
+						"w": 16,
+						"h": 20
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:7509c644eea14653972e00d62dace0b2:2e98e2df98b7547329bcae1da492eea9:79b5c0c763f9825fc65883bd20fc1772$"
+	}
+}

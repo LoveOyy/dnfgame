@@ -1,0 +1,13 @@
+{
+	"path":"test/2",
+	"name":"幽暗密林地图资源",
+	"resource":[
+		"background.png",
+		"background_mid.png",
+		"tile/t0.png",
+		"tile/t1.png",
+		"tile/t2.png"
+	],
+	
+	
+}

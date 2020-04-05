@@ -1,0 +1,2351 @@
+{
+	"textures": [
+		{
+			"image": "sprite_monster_cosmofiend_sealedgate_pack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 951,
+				"h": 1662
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "sealedgatechange0_20.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 46,
+						"w": 110,
+						"h": 268
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 110,
+						"h": 268
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 46,
+						"w": 110,
+						"h": 268
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 110,
+						"h": 268
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 46,
+						"w": 110,
+						"h": 268
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 110,
+						"h": 268
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 46,
+						"w": 110,
+						"h": 268
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 110,
+						"h": 268
+					}
+				},
+				{
+					"filename": "sealedgatedestroyingglow.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 335
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 107,
+						"w": 146,
+						"h": 228
+					},
+					"frame": {
+						"x": 113,
+						"y": 1,
+						"w": 146,
+						"h": 228
+					}
+				},
+				{
+					"filename": "sealedgatedestroyingglow.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 333
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 107,
+						"w": 146,
+						"h": 226
+					},
+					"frame": {
+						"x": 261,
+						"y": 1,
+						"w": 146,
+						"h": 226
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 332
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 110,
+						"w": 146,
+						"h": 222
+					},
+					"frame": {
+						"x": 409,
+						"y": 1,
+						"w": 146,
+						"h": 222
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 332
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 110,
+						"w": 146,
+						"h": 222
+					},
+					"frame": {
+						"x": 557,
+						"y": 1,
+						"w": 146,
+						"h": 222
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 332
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 110,
+						"w": 146,
+						"h": 222
+					},
+					"frame": {
+						"x": 705,
+						"y": 1,
+						"w": 146,
+						"h": 222
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 315
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 65,
+						"w": 112,
+						"h": 250
+					},
+					"frame": {
+						"x": 1,
+						"y": 271,
+						"w": 112,
+						"h": 250
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 315
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 65,
+						"w": 112,
+						"h": 250
+					},
+					"frame": {
+						"x": 1,
+						"y": 271,
+						"w": 112,
+						"h": 250
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 315
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 65,
+						"w": 112,
+						"h": 250
+					},
+					"frame": {
+						"x": 1,
+						"y": 271,
+						"w": 112,
+						"h": 250
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 315
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 65,
+						"w": 112,
+						"h": 250
+					},
+					"frame": {
+						"x": 1,
+						"y": 271,
+						"w": 112,
+						"h": 250
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 321
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 83,
+						"w": 126,
+						"h": 238
+					},
+					"frame": {
+						"x": 1,
+						"y": 523,
+						"w": 126,
+						"h": 238
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 321
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 83,
+						"w": 126,
+						"h": 238
+					},
+					"frame": {
+						"x": 1,
+						"y": 523,
+						"w": 126,
+						"h": 238
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 321
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 83,
+						"w": 126,
+						"h": 238
+					},
+					"frame": {
+						"x": 1,
+						"y": 523,
+						"w": 126,
+						"h": 238
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 132,
+						"h": 321
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 83,
+						"w": 126,
+						"h": 238
+					},
+					"frame": {
+						"x": 1,
+						"y": 523,
+						"w": 126,
+						"h": 238
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 332
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 110,
+						"w": 146,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 763,
+						"w": 146,
+						"h": 222
+					}
+				},
+				{
+					"filename": "sealedgatedestroyingglow.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 332
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 110,
+						"w": 146,
+						"h": 222
+					},
+					"frame": {
+						"x": 1,
+						"y": 987,
+						"w": 146,
+						"h": 222
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 331
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 110,
+						"w": 146,
+						"h": 221
+					},
+					"frame": {
+						"x": 1,
+						"y": 1211,
+						"w": 146,
+						"h": 221
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 331
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 110,
+						"w": 146,
+						"h": 221
+					},
+					"frame": {
+						"x": 1,
+						"y": 1434,
+						"w": 146,
+						"h": 221
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 331
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 110,
+						"w": 146,
+						"h": 221
+					},
+					"frame": {
+						"x": 115,
+						"y": 231,
+						"w": 146,
+						"h": 221
+					}
+				},
+				{
+					"filename": "sealedgatedestroyingglow.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 331
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 110,
+						"w": 146,
+						"h": 221
+					},
+					"frame": {
+						"x": 263,
+						"y": 229,
+						"w": 146,
+						"h": 221
+					}
+				},
+				{
+					"filename": "sealedgatedestroyingglow.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 146,
+						"h": 330
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 114,
+						"w": 146,
+						"h": 216
+					},
+					"frame": {
+						"x": 411,
+						"y": 225,
+						"w": 146,
+						"h": 216
+					}
+				},
+				{
+					"filename": "sealedgatedestroyedglow.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 328
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 122,
+						"w": 131,
+						"h": 206
+					},
+					"frame": {
+						"x": 559,
+						"y": 225,
+						"w": 131,
+						"h": 206
+					}
+				},
+				{
+					"filename": "sealedgatedestroyingglow.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 328
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 122,
+						"w": 131,
+						"h": 206
+					},
+					"frame": {
+						"x": 692,
+						"y": 225,
+						"w": 131,
+						"h": 206
+					}
+				},
+				{
+					"filename": "sealedgatedestroyed.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 126,
+						"w": 92,
+						"h": 182
+					},
+					"frame": {
+						"x": 853,
+						"y": 1,
+						"w": 92,
+						"h": 182
+					}
+				},
+				{
+					"filename": "sealedgatedestroyedglow.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 328
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 123,
+						"w": 131,
+						"h": 205
+					},
+					"frame": {
+						"x": 129,
+						"y": 454,
+						"w": 131,
+						"h": 205
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 93,
+						"w": 108,
+						"h": 221
+					},
+					"frame": {
+						"x": 825,
+						"y": 225,
+						"w": 108,
+						"h": 221
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 93,
+						"w": 108,
+						"h": 221
+					},
+					"frame": {
+						"x": 825,
+						"y": 225,
+						"w": 108,
+						"h": 221
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 93,
+						"w": 108,
+						"h": 221
+					},
+					"frame": {
+						"x": 825,
+						"y": 225,
+						"w": 108,
+						"h": 221
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 93,
+						"w": 108,
+						"h": 221
+					},
+					"frame": {
+						"x": 825,
+						"y": 225,
+						"w": 108,
+						"h": 221
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 315
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 96,
+						"w": 112,
+						"h": 219
+					},
+					"frame": {
+						"x": 149,
+						"y": 661,
+						"w": 112,
+						"h": 219
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 315
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 96,
+						"w": 112,
+						"h": 219
+					},
+					"frame": {
+						"x": 149,
+						"y": 661,
+						"w": 112,
+						"h": 219
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 315
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 96,
+						"w": 112,
+						"h": 219
+					},
+					"frame": {
+						"x": 149,
+						"y": 661,
+						"w": 112,
+						"h": 219
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 315
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 96,
+						"w": 112,
+						"h": 219
+					},
+					"frame": {
+						"x": 149,
+						"y": 661,
+						"w": 112,
+						"h": 219
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 101,
+						"w": 110,
+						"h": 213
+					},
+					"frame": {
+						"x": 149,
+						"y": 882,
+						"w": 110,
+						"h": 213
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 101,
+						"w": 110,
+						"h": 213
+					},
+					"frame": {
+						"x": 149,
+						"y": 882,
+						"w": 110,
+						"h": 213
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 101,
+						"w": 110,
+						"h": 213
+					},
+					"frame": {
+						"x": 149,
+						"y": 882,
+						"w": 110,
+						"h": 213
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 124,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 101,
+						"w": 110,
+						"h": 213
+					},
+					"frame": {
+						"x": 149,
+						"y": 882,
+						"w": 110,
+						"h": 213
+					}
+				},
+				{
+					"filename": "sealedgatedestroyedglow.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 134,
+						"h": 328
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 123,
+						"w": 130,
+						"h": 205
+					},
+					"frame": {
+						"x": 149,
+						"y": 1097,
+						"w": 130,
+						"h": 205
+					}
+				},
+				{
+					"filename": "sealedgatedestroyedglow.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 328
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 124,
+						"w": 131,
+						"h": 204
+					},
+					"frame": {
+						"x": 149,
+						"y": 1304,
+						"w": 131,
+						"h": 204
+					}
+				},
+				{
+					"filename": "sealedgatedestroyingglow.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 328
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 124,
+						"w": 131,
+						"h": 204
+					},
+					"frame": {
+						"x": 261,
+						"y": 882,
+						"w": 131,
+						"h": 204
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 128,
+						"w": 105,
+						"h": 192
+					},
+					"frame": {
+						"x": 281,
+						"y": 1088,
+						"w": 105,
+						"h": 192
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 128,
+						"w": 105,
+						"h": 192
+					},
+					"frame": {
+						"x": 282,
+						"y": 1282,
+						"w": 105,
+						"h": 192
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 129,
+						"w": 108,
+						"h": 185
+					},
+					"frame": {
+						"x": 282,
+						"y": 1476,
+						"w": 108,
+						"h": 185
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 129,
+						"w": 108,
+						"h": 185
+					},
+					"frame": {
+						"x": 282,
+						"y": 1476,
+						"w": 108,
+						"h": 185
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 129,
+						"w": 108,
+						"h": 185
+					},
+					"frame": {
+						"x": 282,
+						"y": 1476,
+						"w": 108,
+						"h": 185
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 123,
+						"h": 314
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 129,
+						"w": 108,
+						"h": 185
+					},
+					"frame": {
+						"x": 282,
+						"y": 1476,
+						"w": 108,
+						"h": 185
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 128,
+						"w": 105,
+						"h": 192
+					},
+					"frame": {
+						"x": 388,
+						"y": 1088,
+						"w": 105,
+						"h": 192
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 128,
+						"w": 105,
+						"h": 192
+					},
+					"frame": {
+						"x": 389,
+						"y": 1282,
+						"w": 105,
+						"h": 192
+					}
+				},
+				{
+					"filename": "sealedgatedestroyed.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 125,
+						"w": 92,
+						"h": 182
+					},
+					"frame": {
+						"x": 392,
+						"y": 1476,
+						"w": 92,
+						"h": 182
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 313
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 131,
+						"w": 90,
+						"h": 182
+					},
+					"frame": {
+						"x": 486,
+						"y": 1476,
+						"w": 90,
+						"h": 182
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 319
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 128,
+						"w": 105,
+						"h": 191
+					},
+					"frame": {
+						"x": 262,
+						"y": 454,
+						"w": 105,
+						"h": 191
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 319
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 128,
+						"w": 105,
+						"h": 191
+					},
+					"frame": {
+						"x": 262,
+						"y": 454,
+						"w": 105,
+						"h": 191
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 319
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 128,
+						"w": 105,
+						"h": 191
+					},
+					"frame": {
+						"x": 263,
+						"y": 647,
+						"w": 105,
+						"h": 191
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 319
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 128,
+						"w": 105,
+						"h": 191
+					},
+					"frame": {
+						"x": 369,
+						"y": 452,
+						"w": 105,
+						"h": 191
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 319
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 128,
+						"w": 105,
+						"h": 191
+					},
+					"frame": {
+						"x": 370,
+						"y": 645,
+						"w": 105,
+						"h": 191
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 122,
+						"h": 319
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 129,
+						"w": 105,
+						"h": 190
+					},
+					"frame": {
+						"x": 476,
+						"y": 443,
+						"w": 105,
+						"h": 190
+					}
+				},
+				{
+					"filename": "sealedgatedestroying.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 126,
+						"w": 92,
+						"h": 182
+					},
+					"frame": {
+						"x": 583,
+						"y": 433,
+						"w": 92,
+						"h": 182
+					}
+				},
+				{
+					"filename": "sealedgatedestroying.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 125,
+						"w": 92,
+						"h": 182
+					},
+					"frame": {
+						"x": 677,
+						"y": 433,
+						"w": 92,
+						"h": 182
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 313
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 131,
+						"w": 90,
+						"h": 182
+					},
+					"frame": {
+						"x": 477,
+						"y": 635,
+						"w": 90,
+						"h": 182
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 313
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 131,
+						"w": 90,
+						"h": 182
+					},
+					"frame": {
+						"x": 394,
+						"y": 838,
+						"w": 90,
+						"h": 182
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 313
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 132,
+						"w": 90,
+						"h": 181
+					},
+					"frame": {
+						"x": 486,
+						"y": 819,
+						"w": 90,
+						"h": 181
+					}
+				},
+				{
+					"filename": "sealedgatebase.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 135,
+						"w": 96,
+						"h": 172
+					},
+					"frame": {
+						"x": 771,
+						"y": 448,
+						"w": 96,
+						"h": 172
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 114,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 131,
+						"w": 89,
+						"h": 181
+					},
+					"frame": {
+						"x": 569,
+						"y": 635,
+						"w": 89,
+						"h": 181
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 114,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 131,
+						"w": 89,
+						"h": 181
+					},
+					"frame": {
+						"x": 578,
+						"y": 818,
+						"w": 89,
+						"h": 181
+					}
+				},
+				{
+					"filename": "sealedgatedestroyed.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 127,
+						"w": 92,
+						"h": 180
+					},
+					"frame": {
+						"x": 660,
+						"y": 617,
+						"w": 92,
+						"h": 180
+					}
+				},
+				{
+					"filename": "sealedgatedestroying.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 135,
+						"w": 96,
+						"h": 172
+					},
+					"frame": {
+						"x": 754,
+						"y": 622,
+						"w": 96,
+						"h": 172
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 114,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 131,
+						"w": 89,
+						"h": 181
+					},
+					"frame": {
+						"x": 669,
+						"y": 799,
+						"w": 89,
+						"h": 181
+					}
+				},
+				{
+					"filename": "sealedgatedestroyed.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 126,
+						"w": 92,
+						"h": 180
+					},
+					"frame": {
+						"x": 760,
+						"y": 796,
+						"w": 92,
+						"h": 180
+					}
+				},
+				{
+					"filename": "sealedgatedestroying.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 135,
+						"w": 96,
+						"h": 172
+					},
+					"frame": {
+						"x": 852,
+						"y": 622,
+						"w": 96,
+						"h": 172
+					}
+				},
+				{
+					"filename": "sealedgatedestroying.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 117,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 135,
+						"w": 96,
+						"h": 172
+					},
+					"frame": {
+						"x": 854,
+						"y": 796,
+						"w": 96,
+						"h": 172
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 114,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 132,
+						"w": 89,
+						"h": 180
+					},
+					"frame": {
+						"x": 495,
+						"y": 1002,
+						"w": 89,
+						"h": 180
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 114,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 132,
+						"w": 89,
+						"h": 180
+					},
+					"frame": {
+						"x": 586,
+						"y": 1001,
+						"w": 89,
+						"h": 180
+					}
+				},
+				{
+					"filename": "sealedgatedestroying.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 307
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 127,
+						"w": 92,
+						"h": 180
+					},
+					"frame": {
+						"x": 677,
+						"y": 982,
+						"w": 92,
+						"h": 180
+					}
+				},
+				{
+					"filename": "sealedgatedestroying.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 115,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 126,
+						"w": 92,
+						"h": 180
+					},
+					"frame": {
+						"x": 771,
+						"y": 978,
+						"w": 92,
+						"h": 180
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 111,
+						"h": 309
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 135,
+						"w": 85,
+						"h": 174
+					},
+					"frame": {
+						"x": 865,
+						"y": 970,
+						"w": 85,
+						"h": 174
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 114,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 134,
+						"w": 90,
+						"h": 178
+					},
+					"frame": {
+						"x": 496,
+						"y": 1184,
+						"w": 90,
+						"h": 178
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 114,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 134,
+						"w": 90,
+						"h": 178
+					},
+					"frame": {
+						"x": 588,
+						"y": 1183,
+						"w": 90,
+						"h": 178
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 114,
+						"h": 312
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 134,
+						"w": 90,
+						"h": 178
+					},
+					"frame": {
+						"x": 680,
+						"y": 1164,
+						"w": 90,
+						"h": 178
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 134,
+						"w": 89,
+						"h": 177
+					},
+					"frame": {
+						"x": 772,
+						"y": 1160,
+						"w": 89,
+						"h": 177
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 112,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 133,
+						"w": 86,
+						"h": 178
+					},
+					"frame": {
+						"x": 863,
+						"y": 1160,
+						"w": 86,
+						"h": 178
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 134,
+						"w": 89,
+						"h": 177
+					},
+					"frame": {
+						"x": 680,
+						"y": 1344,
+						"w": 89,
+						"h": 177
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 311
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 134,
+						"w": 89,
+						"h": 177
+					},
+					"frame": {
+						"x": 771,
+						"y": 1344,
+						"w": 89,
+						"h": 177
+					}
+				},
+				{
+					"filename": "sealedgatebaseglow.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 134,
+						"w": 88,
+						"h": 176
+					},
+					"frame": {
+						"x": 862,
+						"y": 1340,
+						"w": 88,
+						"h": 176
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 310
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 134,
+						"w": 88,
+						"h": 176
+					},
+					"frame": {
+						"x": 588,
+						"y": 1363,
+						"w": 88,
+						"h": 176
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange0_20.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange20_40.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange40_60.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 147,
+						"h": 1
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sealedgatechange60_80.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 118,
+						"h": 308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 754,
+						"y": 617,
+						"w": 3,
+						"h": 3
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c54a53b5146d24b1719e5c1d0b635d93:aa3e290d2387e4066382dda525da4bcc:b42213c4f2d6e193196ce9d538767376$"
+	}
+}
