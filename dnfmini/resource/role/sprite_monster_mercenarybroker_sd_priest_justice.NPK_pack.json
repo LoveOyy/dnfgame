@@ -1,0 +1,3884 @@
+{
+	"textures": [
+		{
+			"image": "sprite_monster_mercenarybroker_sd_priest_justice.NPK_pack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1006,
+				"h": 242
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "04_random_normal.img/35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 109,
+						"w": 103,
+						"h": 63
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 103,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 109,
+						"w": 103,
+						"h": 63
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 103,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 109,
+						"w": 97,
+						"h": 63
+					},
+					"frame": {
+						"x": 1,
+						"y": 66,
+						"w": 97,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 109,
+						"w": 97,
+						"h": 63
+					},
+					"frame": {
+						"x": 1,
+						"y": 66,
+						"w": 97,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 109,
+						"w": 96,
+						"h": 63
+					},
+					"frame": {
+						"x": 106,
+						"y": 1,
+						"w": 96,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 109,
+						"w": 96,
+						"h": 63
+					},
+					"frame": {
+						"x": 106,
+						"y": 1,
+						"w": 96,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 109,
+						"w": 91,
+						"h": 63
+					},
+					"frame": {
+						"x": 1,
+						"y": 131,
+						"w": 91,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 109,
+						"w": 91,
+						"h": 63
+					},
+					"frame": {
+						"x": 1,
+						"y": 131,
+						"w": 91,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 83,
+						"h": 63
+					},
+					"frame": {
+						"x": 100,
+						"y": 66,
+						"w": 83,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 83,
+						"h": 63
+					},
+					"frame": {
+						"x": 100,
+						"y": 66,
+						"w": 83,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 83,
+						"h": 63
+					},
+					"frame": {
+						"x": 204,
+						"y": 1,
+						"w": 83,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 83,
+						"h": 63
+					},
+					"frame": {
+						"x": 204,
+						"y": 1,
+						"w": 83,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 83,
+						"h": 63
+					},
+					"frame": {
+						"x": 204,
+						"y": 1,
+						"w": 83,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 83,
+						"h": 63
+					},
+					"frame": {
+						"x": 204,
+						"y": 1,
+						"w": 83,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 109,
+						"w": 82,
+						"h": 63
+					},
+					"frame": {
+						"x": 94,
+						"y": 131,
+						"w": 82,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 109,
+						"w": 82,
+						"h": 63
+					},
+					"frame": {
+						"x": 94,
+						"y": 131,
+						"w": 82,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 82,
+						"h": 63
+					},
+					"frame": {
+						"x": 185,
+						"y": 66,
+						"w": 82,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 82,
+						"h": 63
+					},
+					"frame": {
+						"x": 185,
+						"y": 66,
+						"w": 82,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/36",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 81,
+						"h": 63
+					},
+					"frame": {
+						"x": 289,
+						"y": 1,
+						"w": 81,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/36",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 81,
+						"h": 63
+					},
+					"frame": {
+						"x": 289,
+						"y": 1,
+						"w": 81,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 80,
+						"h": 63
+					},
+					"frame": {
+						"x": 178,
+						"y": 131,
+						"w": 80,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 80,
+						"h": 63
+					},
+					"frame": {
+						"x": 178,
+						"y": 131,
+						"w": 80,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 77,
+						"h": 63
+					},
+					"frame": {
+						"x": 269,
+						"y": 66,
+						"w": 77,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 77,
+						"h": 63
+					},
+					"frame": {
+						"x": 269,
+						"y": 66,
+						"w": 77,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 75,
+						"h": 63
+					},
+					"frame": {
+						"x": 372,
+						"y": 1,
+						"w": 75,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 75,
+						"h": 63
+					},
+					"frame": {
+						"x": 372,
+						"y": 1,
+						"w": 75,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 109,
+						"w": 74,
+						"h": 63
+					},
+					"frame": {
+						"x": 260,
+						"y": 131,
+						"w": 74,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 109,
+						"w": 74,
+						"h": 63
+					},
+					"frame": {
+						"x": 260,
+						"y": 131,
+						"w": 74,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 109,
+						"w": 73,
+						"h": 63
+					},
+					"frame": {
+						"x": 348,
+						"y": 66,
+						"w": 73,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 109,
+						"w": 73,
+						"h": 63
+					},
+					"frame": {
+						"x": 348,
+						"y": 66,
+						"w": 73,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 109,
+						"w": 71,
+						"h": 63
+					},
+					"frame": {
+						"x": 449,
+						"y": 1,
+						"w": 71,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 109,
+						"w": 71,
+						"h": 63
+					},
+					"frame": {
+						"x": 449,
+						"y": 1,
+						"w": 71,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 71,
+						"h": 63
+					},
+					"frame": {
+						"x": 336,
+						"y": 131,
+						"w": 71,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 71,
+						"h": 63
+					},
+					"frame": {
+						"x": 336,
+						"y": 131,
+						"w": 71,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 423,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 423,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 423,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 423,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 423,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 423,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 423,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 423,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 522,
+						"y": 1,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 522,
+						"y": 1,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 522,
+						"y": 1,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 522,
+						"y": 1,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 409,
+						"y": 131,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 409,
+						"y": 131,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 495,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 495,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 495,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 495,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 594,
+						"y": 1,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 594,
+						"y": 1,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 594,
+						"y": 1,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 594,
+						"y": 1,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 481,
+						"y": 131,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 481,
+						"y": 131,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/39",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 567,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/39",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 70,
+						"h": 63
+					},
+					"frame": {
+						"x": 567,
+						"y": 66,
+						"w": 70,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 69,
+						"h": 63
+					},
+					"frame": {
+						"x": 666,
+						"y": 1,
+						"w": 69,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 69,
+						"h": 63
+					},
+					"frame": {
+						"x": 666,
+						"y": 1,
+						"w": 69,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 69,
+						"h": 63
+					},
+					"frame": {
+						"x": 553,
+						"y": 131,
+						"w": 69,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 69,
+						"h": 63
+					},
+					"frame": {
+						"x": 553,
+						"y": 131,
+						"w": 69,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 69,
+						"h": 63
+					},
+					"frame": {
+						"x": 553,
+						"y": 131,
+						"w": 69,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 109,
+						"w": 69,
+						"h": 63
+					},
+					"frame": {
+						"x": 553,
+						"y": 131,
+						"w": 69,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 68,
+						"h": 63
+					},
+					"frame": {
+						"x": 639,
+						"y": 66,
+						"w": 68,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 68,
+						"h": 63
+					},
+					"frame": {
+						"x": 639,
+						"y": 66,
+						"w": 68,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 68,
+						"h": 63
+					},
+					"frame": {
+						"x": 639,
+						"y": 66,
+						"w": 68,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 68,
+						"h": 63
+					},
+					"frame": {
+						"x": 639,
+						"y": 66,
+						"w": 68,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 68,
+						"h": 63
+					},
+					"frame": {
+						"x": 639,
+						"y": 66,
+						"w": 68,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 68,
+						"h": 63
+					},
+					"frame": {
+						"x": 639,
+						"y": 66,
+						"w": 68,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 67,
+						"h": 63
+					},
+					"frame": {
+						"x": 737,
+						"y": 1,
+						"w": 67,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 67,
+						"h": 63
+					},
+					"frame": {
+						"x": 737,
+						"y": 1,
+						"w": 67,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/37",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 109,
+						"w": 67,
+						"h": 63
+					},
+					"frame": {
+						"x": 624,
+						"y": 131,
+						"w": 67,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/37",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 109,
+						"w": 67,
+						"h": 63
+					},
+					"frame": {
+						"x": 624,
+						"y": 131,
+						"w": 67,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/38",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 67,
+						"h": 63
+					},
+					"frame": {
+						"x": 709,
+						"y": 66,
+						"w": 67,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/38",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 67,
+						"h": 63
+					},
+					"frame": {
+						"x": 709,
+						"y": 66,
+						"w": 67,
+						"h": 63
+					}
+				},
+				{
+					"filename": "04_random_normal.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 66,
+						"h": 63
+					},
+					"frame": {
+						"x": 806,
+						"y": 1,
+						"w": 66,
+						"h": 63
+					}
+				},
+				{
+					"filename": "justice_04_random.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 109,
+						"w": 66,
+						"h": 63
+					},
+					"frame": {
+						"x": 806,
+						"y": 1,
+						"w": 66,
+						"h": 63
+					}
+				},
+				{
+					"filename": "03_call_normal.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 120,
+						"w": 59,
+						"h": 50
+					},
+					"frame": {
+						"x": 693,
+						"y": 131,
+						"w": 59,
+						"h": 50
+					}
+				},
+				{
+					"filename": "justice_03_call.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 120,
+						"w": 59,
+						"h": 50
+					},
+					"frame": {
+						"x": 693,
+						"y": 131,
+						"w": 59,
+						"h": 50
+					}
+				},
+				{
+					"filename": "03_call_normal.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 120,
+						"w": 58,
+						"h": 50
+					},
+					"frame": {
+						"x": 778,
+						"y": 66,
+						"w": 58,
+						"h": 50
+					}
+				},
+				{
+					"filename": "justice_03_call.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 120,
+						"w": 58,
+						"h": 50
+					},
+					"frame": {
+						"x": 778,
+						"y": 66,
+						"w": 58,
+						"h": 50
+					}
+				},
+				{
+					"filename": "03_call_normal.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 122,
+						"w": 58,
+						"h": 48
+					},
+					"frame": {
+						"x": 874,
+						"y": 1,
+						"w": 58,
+						"h": 48
+					}
+				},
+				{
+					"filename": "justice_03_call.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 122,
+						"w": 58,
+						"h": 48
+					},
+					"frame": {
+						"x": 874,
+						"y": 1,
+						"w": 58,
+						"h": 48
+					}
+				},
+				{
+					"filename": "03_call_normal.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 128,
+						"w": 63,
+						"h": 42
+					},
+					"frame": {
+						"x": 1,
+						"y": 196,
+						"w": 63,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 128,
+						"w": 63,
+						"h": 42
+					},
+					"frame": {
+						"x": 1,
+						"y": 196,
+						"w": 63,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 934,
+						"y": 1,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 934,
+						"y": 1,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 934,
+						"y": 1,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 934,
+						"y": 1,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 934,
+						"y": 1,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 934,
+						"y": 1,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 66,
+						"y": 196,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 66,
+						"y": 196,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 66,
+						"y": 196,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 66,
+						"y": 196,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 128,
+						"y": 196,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 128,
+						"y": 196,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 190,
+						"y": 196,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 190,
+						"y": 196,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 252,
+						"y": 196,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 252,
+						"y": 196,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 314,
+						"y": 196,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 60,
+						"h": 42
+					},
+					"frame": {
+						"x": 314,
+						"y": 196,
+						"w": 60,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 59,
+						"h": 42
+					},
+					"frame": {
+						"x": 376,
+						"y": 196,
+						"w": 59,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 59,
+						"h": 42
+					},
+					"frame": {
+						"x": 376,
+						"y": 196,
+						"w": 59,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 59,
+						"h": 42
+					},
+					"frame": {
+						"x": 437,
+						"y": 196,
+						"w": 59,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 59,
+						"h": 42
+					},
+					"frame": {
+						"x": 437,
+						"y": 196,
+						"w": 59,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 59,
+						"h": 42
+					},
+					"frame": {
+						"x": 498,
+						"y": 196,
+						"w": 59,
+						"h": 42
+					}
+				},
+				{
+					"filename": "justice_03_call.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 128,
+						"w": 59,
+						"h": 42
+					},
+					"frame": {
+						"x": 498,
+						"y": 196,
+						"w": 59,
+						"h": 42
+					}
+				},
+				{
+					"filename": "03_call_normal.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 117,
+						"w": 50,
+						"h": 52
+					},
+					"frame": {
+						"x": 838,
+						"y": 66,
+						"w": 50,
+						"h": 52
+					}
+				},
+				{
+					"filename": "justice_03_call.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 117,
+						"w": 50,
+						"h": 52
+					},
+					"frame": {
+						"x": 838,
+						"y": 66,
+						"w": 50,
+						"h": 52
+					}
+				},
+				{
+					"filename": "03_call_normal.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 117,
+						"w": 52,
+						"h": 52
+					},
+					"frame": {
+						"x": 890,
+						"y": 51,
+						"w": 52,
+						"h": 52
+					}
+				},
+				{
+					"filename": "justice_03_call.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 117,
+						"w": 52,
+						"h": 52
+					},
+					"frame": {
+						"x": 890,
+						"y": 51,
+						"w": 52,
+						"h": 52
+					}
+				},
+				{
+					"filename": "02_run.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 132,
+						"w": 37,
+						"h": 37
+					},
+					"frame": {
+						"x": 559,
+						"y": 196,
+						"w": 37,
+						"h": 37
+					}
+				},
+				{
+					"filename": "justice_02_run.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 132,
+						"w": 37,
+						"h": 37
+					},
+					"frame": {
+						"x": 559,
+						"y": 196,
+						"w": 37,
+						"h": 37
+					}
+				},
+				{
+					"filename": "02_run.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 132,
+						"w": 37,
+						"h": 37
+					},
+					"frame": {
+						"x": 598,
+						"y": 196,
+						"w": 37,
+						"h": 37
+					}
+				},
+				{
+					"filename": "justice_02_run.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 132,
+						"w": 37,
+						"h": 37
+					},
+					"frame": {
+						"x": 598,
+						"y": 196,
+						"w": 37,
+						"h": 37
+					}
+				},
+				{
+					"filename": "02_run.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 132,
+						"w": 34,
+						"h": 37
+					},
+					"frame": {
+						"x": 637,
+						"y": 196,
+						"w": 34,
+						"h": 37
+					}
+				},
+				{
+					"filename": "justice_02_run.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 132,
+						"w": 34,
+						"h": 37
+					},
+					"frame": {
+						"x": 637,
+						"y": 196,
+						"w": 34,
+						"h": 37
+					}
+				},
+				{
+					"filename": "02_run.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 131,
+						"w": 34,
+						"h": 38
+					},
+					"frame": {
+						"x": 944,
+						"y": 45,
+						"w": 34,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_02_run.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 131,
+						"w": 34,
+						"h": 38
+					},
+					"frame": {
+						"x": 944,
+						"y": 45,
+						"w": 34,
+						"h": 38
+					}
+				},
+				{
+					"filename": "01_walk.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 131,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 980,
+						"y": 45,
+						"w": 25,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_01_move.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 131,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 980,
+						"y": 45,
+						"w": 25,
+						"h": 38
+					}
+				},
+				{
+					"filename": "00_stand.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 130,
+						"w": 29,
+						"h": 39
+					},
+					"frame": {
+						"x": 754,
+						"y": 131,
+						"w": 29,
+						"h": 39
+					}
+				},
+				{
+					"filename": "00_stand.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 130,
+						"w": 29,
+						"h": 39
+					},
+					"frame": {
+						"x": 754,
+						"y": 131,
+						"w": 29,
+						"h": 39
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 130,
+						"w": 29,
+						"h": 39
+					},
+					"frame": {
+						"x": 754,
+						"y": 131,
+						"w": 29,
+						"h": 39
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 130,
+						"w": 29,
+						"h": 39
+					},
+					"frame": {
+						"x": 754,
+						"y": 131,
+						"w": 29,
+						"h": 39
+					}
+				},
+				{
+					"filename": "02_run.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 131,
+						"w": 34,
+						"h": 38
+					},
+					"frame": {
+						"x": 785,
+						"y": 118,
+						"w": 34,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_02_run.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 131,
+						"w": 34,
+						"h": 38
+					},
+					"frame": {
+						"x": 785,
+						"y": 118,
+						"w": 34,
+						"h": 38
+					}
+				},
+				{
+					"filename": "00_stand.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 132,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 673,
+						"y": 196,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "00_stand.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 132,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 673,
+						"y": 196,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 132,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 673,
+						"y": 196,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 132,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 673,
+						"y": 196,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "02_run.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 132,
+						"w": 34,
+						"h": 37
+					},
+					"frame": {
+						"x": 708,
+						"y": 183,
+						"w": 34,
+						"h": 37
+					}
+				},
+				{
+					"filename": "justice_02_run.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 132,
+						"w": 34,
+						"h": 37
+					},
+					"frame": {
+						"x": 708,
+						"y": 183,
+						"w": 34,
+						"h": 37
+					}
+				},
+				{
+					"filename": "03_call_normal.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 134,
+						"w": 36,
+						"h": 35
+					},
+					"frame": {
+						"x": 944,
+						"y": 85,
+						"w": 36,
+						"h": 35
+					}
+				},
+				{
+					"filename": "justice_03_call.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 134,
+						"w": 36,
+						"h": 35
+					},
+					"frame": {
+						"x": 944,
+						"y": 85,
+						"w": 36,
+						"h": 35
+					}
+				},
+				{
+					"filename": "03_call_normal.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 134,
+						"w": 36,
+						"h": 35
+					},
+					"frame": {
+						"x": 821,
+						"y": 120,
+						"w": 36,
+						"h": 35
+					}
+				},
+				{
+					"filename": "justice_03_call.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 134,
+						"w": 36,
+						"h": 35
+					},
+					"frame": {
+						"x": 821,
+						"y": 120,
+						"w": 36,
+						"h": 35
+					}
+				},
+				{
+					"filename": "00_stand.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 132,
+						"w": 31,
+						"h": 37
+					},
+					"frame": {
+						"x": 859,
+						"y": 120,
+						"w": 31,
+						"h": 37
+					}
+				},
+				{
+					"filename": "00_stand.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 132,
+						"w": 31,
+						"h": 37
+					},
+					"frame": {
+						"x": 859,
+						"y": 120,
+						"w": 31,
+						"h": 37
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 132,
+						"w": 31,
+						"h": 37
+					},
+					"frame": {
+						"x": 859,
+						"y": 120,
+						"w": 31,
+						"h": 37
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 132,
+						"w": 31,
+						"h": 37
+					},
+					"frame": {
+						"x": 859,
+						"y": 120,
+						"w": 31,
+						"h": 37
+					}
+				},
+				{
+					"filename": "03_call_normal.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 133,
+						"w": 35,
+						"h": 36
+					},
+					"frame": {
+						"x": 892,
+						"y": 105,
+						"w": 35,
+						"h": 36
+					}
+				},
+				{
+					"filename": "justice_03_call.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 133,
+						"w": 35,
+						"h": 36
+					},
+					"frame": {
+						"x": 892,
+						"y": 105,
+						"w": 35,
+						"h": 36
+					}
+				},
+				{
+					"filename": "03_call_normal.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 135,
+						"w": 36,
+						"h": 34
+					},
+					"frame": {
+						"x": 892,
+						"y": 143,
+						"w": 36,
+						"h": 34
+					}
+				},
+				{
+					"filename": "justice_03_call.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 135,
+						"w": 36,
+						"h": 34
+					},
+					"frame": {
+						"x": 892,
+						"y": 143,
+						"w": 36,
+						"h": 34
+					}
+				},
+				{
+					"filename": "00_stand.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 131,
+						"w": 29,
+						"h": 38
+					},
+					"frame": {
+						"x": 744,
+						"y": 183,
+						"w": 29,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 131,
+						"w": 29,
+						"h": 38
+					},
+					"frame": {
+						"x": 744,
+						"y": 183,
+						"w": 29,
+						"h": 38
+					}
+				},
+				{
+					"filename": "00_stand.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 132,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 785,
+						"y": 158,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "00_stand.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 132,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 785,
+						"y": 158,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 132,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 785,
+						"y": 158,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 132,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 785,
+						"y": 158,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "02_run.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 131,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 775,
+						"y": 197,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "justice_02_run.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 131,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 775,
+						"y": 197,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "00_stand.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 131,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 810,
+						"y": 197,
+						"w": 30,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 131,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 810,
+						"y": 197,
+						"w": 30,
+						"h": 38
+					}
+				},
+				{
+					"filename": "02_run.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 130,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 820,
+						"y": 158,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "justice_02_run.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 130,
+						"w": 33,
+						"h": 37
+					},
+					"frame": {
+						"x": 820,
+						"y": 158,
+						"w": 33,
+						"h": 37
+					}
+				},
+				{
+					"filename": "00_stand.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 131,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 855,
+						"y": 159,
+						"w": 30,
+						"h": 38
+					}
+				},
+				{
+					"filename": "00_stand.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 131,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 855,
+						"y": 159,
+						"w": 30,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 131,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 855,
+						"y": 159,
+						"w": 30,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 131,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 855,
+						"y": 159,
+						"w": 30,
+						"h": 38
+					}
+				},
+				{
+					"filename": "00_stand.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 131,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 842,
+						"y": 199,
+						"w": 30,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 131,
+						"w": 30,
+						"h": 38
+					},
+					"frame": {
+						"x": 842,
+						"y": 199,
+						"w": 30,
+						"h": 38
+					}
+				},
+				{
+					"filename": "00_stand.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 131,
+						"w": 29,
+						"h": 38
+					},
+					"frame": {
+						"x": 874,
+						"y": 199,
+						"w": 29,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_00_idle.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 131,
+						"w": 29,
+						"h": 38
+					},
+					"frame": {
+						"x": 874,
+						"y": 199,
+						"w": 29,
+						"h": 38
+					}
+				},
+				{
+					"filename": "01_walk.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 130,
+						"w": 29,
+						"h": 39
+					},
+					"frame": {
+						"x": 905,
+						"y": 179,
+						"w": 29,
+						"h": 39
+					}
+				},
+				{
+					"filename": "justice_01_move.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 130,
+						"w": 29,
+						"h": 39
+					},
+					"frame": {
+						"x": 905,
+						"y": 179,
+						"w": 29,
+						"h": 39
+					}
+				},
+				{
+					"filename": "01_walk.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 130,
+						"w": 26,
+						"h": 39
+					},
+					"frame": {
+						"x": 930,
+						"y": 122,
+						"w": 26,
+						"h": 39
+					}
+				},
+				{
+					"filename": "justice_01_move.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 130,
+						"w": 26,
+						"h": 39
+					},
+					"frame": {
+						"x": 930,
+						"y": 122,
+						"w": 26,
+						"h": 39
+					}
+				},
+				{
+					"filename": "01_walk.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 131,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 958,
+						"y": 122,
+						"w": 25,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_01_move.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 131,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 958,
+						"y": 122,
+						"w": 25,
+						"h": 38
+					}
+				},
+				{
+					"filename": "01_walk.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 131,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 936,
+						"y": 163,
+						"w": 25,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_01_move.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 131,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 936,
+						"y": 163,
+						"w": 25,
+						"h": 38
+					}
+				},
+				{
+					"filename": "01_walk.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 131,
+						"w": 26,
+						"h": 38
+					},
+					"frame": {
+						"x": 963,
+						"y": 162,
+						"w": 26,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_01_move.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 131,
+						"w": 26,
+						"h": 38
+					},
+					"frame": {
+						"x": 963,
+						"y": 162,
+						"w": 26,
+						"h": 38
+					}
+				},
+				{
+					"filename": "01_walk.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 131,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 936,
+						"y": 203,
+						"w": 25,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_01_move.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 131,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 936,
+						"y": 203,
+						"w": 25,
+						"h": 38
+					}
+				},
+				{
+					"filename": "01_walk.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 131,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 963,
+						"y": 202,
+						"w": 25,
+						"h": 38
+					}
+				},
+				{
+					"filename": "justice_01_move.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 131,
+						"w": 25,
+						"h": 38
+					},
+					"frame": {
+						"x": 963,
+						"y": 202,
+						"w": 25,
+						"h": 38
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:023b40af38090b2ed787c94bf26fdeaa:cf5c7c3f1eaa7ed82683115ee588ef1a:ea287647dd5ecc47de884380d1a49f81$"
+	}
+}

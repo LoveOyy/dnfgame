@@ -1,0 +1,3002 @@
+{
+	"textures": [
+		{
+			"image": "sprite_monster_mercenarybroker_sd_priest_exorcist.NPK_pack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 256,
+				"h": 418
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "04_random.img/27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 126,
+						"w": 45,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 45,
+						"h": 24
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 126,
+						"w": 45,
+						"h": 24
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 45,
+						"h": 24
+					}
+				},
+				{
+					"filename": "04_random.img/23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 116,
+						"w": 58,
+						"h": 35
+					},
+					"frame": {
+						"x": 48,
+						"y": 1,
+						"w": 58,
+						"h": 35
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 116,
+						"w": 58,
+						"h": 35
+					},
+					"frame": {
+						"x": 48,
+						"y": 1,
+						"w": 58,
+						"h": 35
+					}
+				},
+				{
+					"filename": "04_random.img/24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 112,
+						"w": 56,
+						"h": 38
+					},
+					"frame": {
+						"x": 108,
+						"y": 1,
+						"w": 56,
+						"h": 38
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 112,
+						"w": 56,
+						"h": 38
+					},
+					"frame": {
+						"x": 108,
+						"y": 1,
+						"w": 56,
+						"h": 38
+					}
+				},
+				{
+					"filename": "04_random.img/25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 112,
+						"w": 55,
+						"h": 38
+					},
+					"frame": {
+						"x": 166,
+						"y": 1,
+						"w": 55,
+						"h": 38
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 112,
+						"w": 55,
+						"h": 38
+					},
+					"frame": {
+						"x": 166,
+						"y": 1,
+						"w": 55,
+						"h": 38
+					}
+				},
+				{
+					"filename": "02_run.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 105,
+						"w": 25,
+						"h": 40
+					},
+					"frame": {
+						"x": 223,
+						"y": 1,
+						"w": 25,
+						"h": 40
+					}
+				},
+				{
+					"filename": "02_run.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 105,
+						"w": 25,
+						"h": 40
+					},
+					"frame": {
+						"x": 1,
+						"y": 27,
+						"w": 25,
+						"h": 40
+					}
+				},
+				{
+					"filename": "04_random.img/26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 111,
+						"w": 51,
+						"h": 39
+					},
+					"frame": {
+						"x": 28,
+						"y": 38,
+						"w": 51,
+						"h": 39
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 111,
+						"w": 51,
+						"h": 39
+					},
+					"frame": {
+						"x": 28,
+						"y": 38,
+						"w": 51,
+						"h": 39
+					}
+				},
+				{
+					"filename": "02_run.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 104,
+						"w": 25,
+						"h": 41
+					},
+					"frame": {
+						"x": 81,
+						"y": 38,
+						"w": 25,
+						"h": 41
+					}
+				},
+				{
+					"filename": "exorcist_00_idle.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 106,
+						"w": 31,
+						"h": 40
+					},
+					"frame": {
+						"x": 108,
+						"y": 41,
+						"w": 31,
+						"h": 40
+					}
+				},
+				{
+					"filename": "02_run.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 104,
+						"w": 25,
+						"h": 41
+					},
+					"frame": {
+						"x": 141,
+						"y": 41,
+						"w": 25,
+						"h": 41
+					}
+				},
+				{
+					"filename": "02_run.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 104,
+						"w": 25,
+						"h": 41
+					},
+					"frame": {
+						"x": 168,
+						"y": 41,
+						"w": 25,
+						"h": 41
+					}
+				},
+				{
+					"filename": "02_run.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 104,
+						"w": 25,
+						"h": 41
+					},
+					"frame": {
+						"x": 195,
+						"y": 41,
+						"w": 25,
+						"h": 41
+					}
+				},
+				{
+					"filename": "exorcist_02_run.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 106,
+						"w": 31,
+						"h": 41
+					},
+					"frame": {
+						"x": 222,
+						"y": 43,
+						"w": 31,
+						"h": 41
+					}
+				},
+				{
+					"filename": "01_walk.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 102,
+						"w": 25,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 69,
+						"w": 25,
+						"h": 43
+					}
+				},
+				{
+					"filename": "04_random.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 105,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 28,
+						"y": 79,
+						"w": 40,
+						"h": 41
+					}
+				},
+				{
+					"filename": "04_random.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 105,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 28,
+						"y": 79,
+						"w": 40,
+						"h": 41
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 105,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 28,
+						"y": 79,
+						"w": 40,
+						"h": 41
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 105,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 28,
+						"y": 79,
+						"w": 40,
+						"h": 41
+					}
+				},
+				{
+					"filename": "exorcist_02_run.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 106,
+						"w": 31,
+						"h": 41
+					},
+					"frame": {
+						"x": 70,
+						"y": 81,
+						"w": 31,
+						"h": 41
+					}
+				},
+				{
+					"filename": "exorcist_00_idle.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 104,
+						"w": 31,
+						"h": 42
+					},
+					"frame": {
+						"x": 103,
+						"y": 83,
+						"w": 31,
+						"h": 42
+					}
+				},
+				{
+					"filename": "00_stand.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 102,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 136,
+						"y": 84,
+						"w": 30,
+						"h": 43
+					}
+				},
+				{
+					"filename": "00_stand.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 102,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 136,
+						"y": 84,
+						"w": 30,
+						"h": 43
+					}
+				},
+				{
+					"filename": "00_stand.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 102,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 136,
+						"y": 84,
+						"w": 30,
+						"h": 43
+					}
+				},
+				{
+					"filename": "00_stand.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 102,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 136,
+						"y": 84,
+						"w": 30,
+						"h": 43
+					}
+				},
+				{
+					"filename": "00_stand.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 103,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 168,
+						"y": 84,
+						"w": 30,
+						"h": 43
+					}
+				},
+				{
+					"filename": "00_stand.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 103,
+						"w": 30,
+						"h": 43
+					},
+					"frame": {
+						"x": 168,
+						"y": 84,
+						"w": 30,
+						"h": 43
+					}
+				},
+				{
+					"filename": "01_walk.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 102,
+						"w": 28,
+						"h": 43
+					},
+					"frame": {
+						"x": 200,
+						"y": 86,
+						"w": 28,
+						"h": 43
+					}
+				},
+				{
+					"filename": "01_walk.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 102,
+						"w": 25,
+						"h": 43
+					},
+					"frame": {
+						"x": 230,
+						"y": 86,
+						"w": 25,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_01_move.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 102,
+						"w": 24,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 114,
+						"w": 24,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 102,
+						"w": 28,
+						"h": 43
+					},
+					"frame": {
+						"x": 27,
+						"y": 122,
+						"w": 28,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 102,
+						"w": 28,
+						"h": 43
+					},
+					"frame": {
+						"x": 27,
+						"y": 122,
+						"w": 28,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 102,
+						"w": 31,
+						"h": 43
+					},
+					"frame": {
+						"x": 57,
+						"y": 124,
+						"w": 31,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 102,
+						"w": 31,
+						"h": 43
+					},
+					"frame": {
+						"x": 57,
+						"y": 124,
+						"w": 31,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 127,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 124,
+						"y": 129,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 102,
+						"w": 32,
+						"h": 43
+					},
+					"frame": {
+						"x": 124,
+						"y": 129,
+						"w": 32,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 102,
+						"w": 34,
+						"h": 43
+					},
+					"frame": {
+						"x": 158,
+						"y": 129,
+						"w": 34,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 102,
+						"w": 34,
+						"h": 43
+					},
+					"frame": {
+						"x": 158,
+						"y": 129,
+						"w": 34,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 103,
+						"y": 102,
+						"w": 35,
+						"h": 43
+					},
+					"frame": {
+						"x": 194,
+						"y": 131,
+						"w": 35,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 103,
+						"y": 102,
+						"w": 35,
+						"h": 43
+					},
+					"frame": {
+						"x": 194,
+						"y": 131,
+						"w": 35,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_01_move.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 102,
+						"w": 24,
+						"h": 43
+					},
+					"frame": {
+						"x": 231,
+						"y": 131,
+						"w": 24,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_01_move.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 102,
+						"w": 24,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 159,
+						"w": 24,
+						"h": 43
+					}
+				},
+				{
+					"filename": "04_random.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 104,
+						"w": 28,
+						"h": 43
+					},
+					"frame": {
+						"x": 27,
+						"y": 167,
+						"w": 28,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 104,
+						"w": 28,
+						"h": 43
+					},
+					"frame": {
+						"x": 27,
+						"y": 167,
+						"w": 28,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_00_idle.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 103,
+						"w": 31,
+						"h": 43
+					},
+					"frame": {
+						"x": 57,
+						"y": 169,
+						"w": 31,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_00_idle.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 103,
+						"w": 31,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 172,
+						"w": 31,
+						"h": 43
+					}
+				},
+				{
+					"filename": "03_call_normal.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 102,
+						"w": 34,
+						"h": 43
+					},
+					"frame": {
+						"x": 123,
+						"y": 174,
+						"w": 34,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_03_call.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 102,
+						"w": 34,
+						"h": 43
+					},
+					"frame": {
+						"x": 123,
+						"y": 174,
+						"w": 34,
+						"h": 43
+					}
+				},
+				{
+					"filename": "04_random.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 104,
+						"w": 33,
+						"h": 43
+					},
+					"frame": {
+						"x": 159,
+						"y": 174,
+						"w": 33,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 104,
+						"w": 33,
+						"h": 43
+					},
+					"frame": {
+						"x": 159,
+						"y": 174,
+						"w": 33,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_01_move.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 102,
+						"w": 26,
+						"h": 43
+					},
+					"frame": {
+						"x": 194,
+						"y": 176,
+						"w": 26,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_02_run.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 105,
+						"w": 31,
+						"h": 43
+					},
+					"frame": {
+						"x": 222,
+						"y": 176,
+						"w": 31,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_02_run.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 105,
+						"w": 23,
+						"h": 43
+					},
+					"frame": {
+						"x": 1,
+						"y": 204,
+						"w": 23,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_02_run.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 106,
+						"w": 29,
+						"h": 43
+					},
+					"frame": {
+						"x": 26,
+						"y": 212,
+						"w": 29,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_02_run.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 105,
+						"w": 31,
+						"h": 43
+					},
+					"frame": {
+						"x": 57,
+						"y": 214,
+						"w": 31,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_02_run.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 106,
+						"w": 29,
+						"h": 43
+					},
+					"frame": {
+						"x": 90,
+						"y": 217,
+						"w": 29,
+						"h": 43
+					}
+				},
+				{
+					"filename": "exorcist_02_run.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 105,
+						"w": 23,
+						"h": 43
+					},
+					"frame": {
+						"x": 121,
+						"y": 219,
+						"w": 23,
+						"h": 43
+					}
+				},
+				{
+					"filename": "01_walk.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 101,
+						"w": 25,
+						"h": 44
+					},
+					"frame": {
+						"x": 146,
+						"y": 219,
+						"w": 25,
+						"h": 44
+					}
+				},
+				{
+					"filename": "01_walk.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 101,
+						"w": 26,
+						"h": 44
+					},
+					"frame": {
+						"x": 173,
+						"y": 221,
+						"w": 26,
+						"h": 44
+					}
+				},
+				{
+					"filename": "01_walk.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 102,
+						"w": 26,
+						"h": 44
+					},
+					"frame": {
+						"x": 201,
+						"y": 221,
+						"w": 26,
+						"h": 44
+					}
+				},
+				{
+					"filename": "01_walk.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 101,
+						"w": 25,
+						"h": 44
+					},
+					"frame": {
+						"x": 229,
+						"y": 221,
+						"w": 25,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_01_move.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 101,
+						"w": 23,
+						"h": 44
+					},
+					"frame": {
+						"x": 1,
+						"y": 249,
+						"w": 23,
+						"h": 44
+					}
+				},
+				{
+					"filename": "01_walk.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 101,
+						"w": 25,
+						"h": 44
+					},
+					"frame": {
+						"x": 26,
+						"y": 257,
+						"w": 25,
+						"h": 44
+					}
+				},
+				{
+					"filename": "04_random.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 103,
+						"w": 28,
+						"h": 44
+					},
+					"frame": {
+						"x": 53,
+						"y": 259,
+						"w": 28,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 103,
+						"w": 28,
+						"h": 44
+					},
+					"frame": {
+						"x": 53,
+						"y": 259,
+						"w": 28,
+						"h": 44
+					}
+				},
+				{
+					"filename": "04_random.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 103,
+						"y": 103,
+						"w": 36,
+						"h": 44
+					},
+					"frame": {
+						"x": 83,
+						"y": 262,
+						"w": 36,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 103,
+						"y": 103,
+						"w": 36,
+						"h": 44
+					},
+					"frame": {
+						"x": 83,
+						"y": 262,
+						"w": 36,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_01_move.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 101,
+						"w": 23,
+						"h": 44
+					},
+					"frame": {
+						"x": 121,
+						"y": 264,
+						"w": 23,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_01_move.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 101,
+						"w": 24,
+						"h": 44
+					},
+					"frame": {
+						"x": 146,
+						"y": 265,
+						"w": 24,
+						"h": 44
+					}
+				},
+				{
+					"filename": "04_random.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 103,
+						"w": 40,
+						"h": 44
+					},
+					"frame": {
+						"x": 172,
+						"y": 267,
+						"w": 40,
+						"h": 44
+					}
+				},
+				{
+					"filename": "04_random.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 103,
+						"w": 40,
+						"h": 44
+					},
+					"frame": {
+						"x": 172,
+						"y": 267,
+						"w": 40,
+						"h": 44
+					}
+				},
+				{
+					"filename": "04_random.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 103,
+						"w": 40,
+						"h": 44
+					},
+					"frame": {
+						"x": 172,
+						"y": 267,
+						"w": 40,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 103,
+						"w": 40,
+						"h": 44
+					},
+					"frame": {
+						"x": 172,
+						"y": 267,
+						"w": 40,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 103,
+						"w": 40,
+						"h": 44
+					},
+					"frame": {
+						"x": 172,
+						"y": 267,
+						"w": 40,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 103,
+						"w": 40,
+						"h": 44
+					},
+					"frame": {
+						"x": 172,
+						"y": 267,
+						"w": 40,
+						"h": 44
+					}
+				},
+				{
+					"filename": "04_random.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 103,
+						"w": 27,
+						"h": 44
+					},
+					"frame": {
+						"x": 214,
+						"y": 267,
+						"w": 27,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 103,
+						"w": 27,
+						"h": 44
+					},
+					"frame": {
+						"x": 214,
+						"y": 267,
+						"w": 27,
+						"h": 44
+					}
+				},
+				{
+					"filename": "04_random.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 103,
+						"w": 38,
+						"h": 44
+					},
+					"frame": {
+						"x": 1,
+						"y": 303,
+						"w": 38,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 103,
+						"w": 38,
+						"h": 44
+					},
+					"frame": {
+						"x": 1,
+						"y": 303,
+						"w": 38,
+						"h": 44
+					}
+				},
+				{
+					"filename": "04_random.img/22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 103,
+						"w": 40,
+						"h": 44
+					},
+					"frame": {
+						"x": 41,
+						"y": 305,
+						"w": 40,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 103,
+						"w": 40,
+						"h": 44
+					},
+					"frame": {
+						"x": 41,
+						"y": 305,
+						"w": 40,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_00_idle.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 102,
+						"w": 31,
+						"h": 44
+					},
+					"frame": {
+						"x": 83,
+						"y": 308,
+						"w": 31,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_01_move.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 101,
+						"w": 24,
+						"h": 44
+					},
+					"frame": {
+						"x": 116,
+						"y": 310,
+						"w": 24,
+						"h": 44
+					}
+				},
+				{
+					"filename": "exorcist_00_idle.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 102,
+						"w": 31,
+						"h": 44
+					},
+					"frame": {
+						"x": 142,
+						"y": 313,
+						"w": 31,
+						"h": 44
+					}
+				},
+				{
+					"filename": "04_random.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 102,
+						"w": 36,
+						"h": 45
+					},
+					"frame": {
+						"x": 175,
+						"y": 313,
+						"w": 36,
+						"h": 45
+					}
+				},
+				{
+					"filename": "04_random.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 102,
+						"w": 36,
+						"h": 45
+					},
+					"frame": {
+						"x": 175,
+						"y": 313,
+						"w": 36,
+						"h": 45
+					}
+				},
+				{
+					"filename": "04_random.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 102,
+						"w": 36,
+						"h": 45
+					},
+					"frame": {
+						"x": 175,
+						"y": 313,
+						"w": 36,
+						"h": 45
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 102,
+						"w": 36,
+						"h": 45
+					},
+					"frame": {
+						"x": 175,
+						"y": 313,
+						"w": 36,
+						"h": 45
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 102,
+						"w": 36,
+						"h": 45
+					},
+					"frame": {
+						"x": 175,
+						"y": 313,
+						"w": 36,
+						"h": 45
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 102,
+						"w": 36,
+						"h": 45
+					},
+					"frame": {
+						"x": 175,
+						"y": 313,
+						"w": 36,
+						"h": 45
+					}
+				},
+				{
+					"filename": "04_random.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 101,
+						"w": 40,
+						"h": 45
+					},
+					"frame": {
+						"x": 213,
+						"y": 313,
+						"w": 40,
+						"h": 45
+					}
+				},
+				{
+					"filename": "04_random.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 101,
+						"w": 40,
+						"h": 45
+					},
+					"frame": {
+						"x": 213,
+						"y": 313,
+						"w": 40,
+						"h": 45
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 101,
+						"w": 40,
+						"h": 45
+					},
+					"frame": {
+						"x": 213,
+						"y": 313,
+						"w": 40,
+						"h": 45
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 101,
+						"w": 40,
+						"h": 45
+					},
+					"frame": {
+						"x": 213,
+						"y": 313,
+						"w": 40,
+						"h": 45
+					}
+				},
+				{
+					"filename": "04_random.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 102,
+						"w": 54,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 351,
+						"w": 54,
+						"h": 47
+					}
+				},
+				{
+					"filename": "04_random.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 102,
+						"w": 54,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 351,
+						"w": 54,
+						"h": 47
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 102,
+						"w": 54,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 351,
+						"w": 54,
+						"h": 47
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 102,
+						"w": 54,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 351,
+						"w": 54,
+						"h": 47
+					}
+				},
+				{
+					"filename": "04_random.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 104,
+						"w": 45,
+						"h": 56
+					},
+					"frame": {
+						"x": 57,
+						"y": 354,
+						"w": 45,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 104,
+						"w": 45,
+						"h": 56
+					},
+					"frame": {
+						"x": 57,
+						"y": 354,
+						"w": 45,
+						"h": 56
+					}
+				},
+				{
+					"filename": "04_random.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 104,
+						"w": 45,
+						"h": 56
+					},
+					"frame": {
+						"x": 104,
+						"y": 359,
+						"w": 45,
+						"h": 56
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 104,
+						"w": 45,
+						"h": 56
+					},
+					"frame": {
+						"x": 104,
+						"y": 359,
+						"w": 45,
+						"h": 56
+					}
+				},
+				{
+					"filename": "04_random.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 103,
+						"w": 45,
+						"h": 57
+					},
+					"frame": {
+						"x": 151,
+						"y": 360,
+						"w": 45,
+						"h": 57
+					}
+				},
+				{
+					"filename": "04_random.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 103,
+						"w": 45,
+						"h": 57
+					},
+					"frame": {
+						"x": 151,
+						"y": 360,
+						"w": 45,
+						"h": 57
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 103,
+						"w": 45,
+						"h": 57
+					},
+					"frame": {
+						"x": 151,
+						"y": 360,
+						"w": 45,
+						"h": 57
+					}
+				},
+				{
+					"filename": "exorcist_04_random.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 200
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 103,
+						"w": 45,
+						"h": 57
+					},
+					"frame": {
+						"x": 151,
+						"y": 360,
+						"w": 45,
+						"h": 57
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:48fb19a85d12c2011d2b345ee5baab22:ee34b9c570defb4e3c5067f62f04c8e9:7fa44560d45a35cefabc335fe41b18c6$"
+	}
+}

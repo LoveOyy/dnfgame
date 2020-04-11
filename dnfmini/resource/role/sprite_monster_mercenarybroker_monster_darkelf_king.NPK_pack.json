@@ -1,0 +1,797 @@
+{
+	"textures": [
+		{
+			"image": "sprite_monster_mercenarybroker_monster_darkelf_king.NPK_pack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1225,
+				"h": 1020
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "darkelf_king.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 190,
+						"y": 130,
+						"w": 139,
+						"h": 231
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 139,
+						"h": 231
+					}
+				},
+				{
+					"filename": "darkelf_king.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 144,
+						"y": 131,
+						"w": 138,
+						"h": 221
+					},
+					"frame": {
+						"x": 1,
+						"y": 234,
+						"w": 138,
+						"h": 221
+					}
+				},
+				{
+					"filename": "darkelf_king.img/23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 186,
+						"y": 180,
+						"w": 142,
+						"h": 198
+					},
+					"frame": {
+						"x": 1,
+						"y": 457,
+						"w": 142,
+						"h": 198
+					}
+				},
+				{
+					"filename": "darkelf_king.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 166,
+						"w": 140,
+						"h": 197
+					},
+					"frame": {
+						"x": 141,
+						"y": 234,
+						"w": 140,
+						"h": 197
+					}
+				},
+				{
+					"filename": "darkelf_king.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 167,
+						"w": 145,
+						"h": 193
+					},
+					"frame": {
+						"x": 142,
+						"y": 1,
+						"w": 145,
+						"h": 193
+					}
+				},
+				{
+					"filename": "darkelf_king.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 156,
+						"y": 167,
+						"w": 180,
+						"h": 191
+					},
+					"frame": {
+						"x": 1,
+						"y": 657,
+						"w": 180,
+						"h": 191
+					}
+				},
+				{
+					"filename": "darkelf_king.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 202,
+						"y": 175,
+						"w": 132,
+						"h": 169
+					},
+					"frame": {
+						"x": 1,
+						"y": 850,
+						"w": 132,
+						"h": 169
+					}
+				},
+				{
+					"filename": "darkelf_king.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 172,
+						"w": 200,
+						"h": 168
+					},
+					"frame": {
+						"x": 135,
+						"y": 850,
+						"w": 200,
+						"h": 168
+					}
+				},
+				{
+					"filename": "darkelf_king.img/26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 179,
+						"y": 182,
+						"w": 146,
+						"h": 190
+					},
+					"frame": {
+						"x": 145,
+						"y": 433,
+						"w": 146,
+						"h": 190
+					}
+				},
+				{
+					"filename": "darkelf_king.img/27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 172,
+						"w": 207,
+						"h": 187
+					},
+					"frame": {
+						"x": 183,
+						"y": 625,
+						"w": 207,
+						"h": 187
+					}
+				},
+				{
+					"filename": "darkelf_king.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 160,
+						"w": 200,
+						"h": 187
+					},
+					"frame": {
+						"x": 337,
+						"y": 814,
+						"w": 200,
+						"h": 187
+					}
+				},
+				{
+					"filename": "darkelf_king.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 166,
+						"w": 151,
+						"h": 187
+					},
+					"frame": {
+						"x": 283,
+						"y": 196,
+						"w": 151,
+						"h": 187
+					}
+				},
+				{
+					"filename": "darkelf_king.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 165,
+						"w": 149,
+						"h": 186
+					},
+					"frame": {
+						"x": 289,
+						"y": 1,
+						"w": 149,
+						"h": 186
+					}
+				},
+				{
+					"filename": "darkelf_king.img/22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 172,
+						"w": 215,
+						"h": 185
+					},
+					"frame": {
+						"x": 293,
+						"y": 385,
+						"w": 215,
+						"h": 185
+					}
+				},
+				{
+					"filename": "darkelf_king.img/28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 172,
+						"w": 211,
+						"h": 185
+					},
+					"frame": {
+						"x": 436,
+						"y": 189,
+						"w": 211,
+						"h": 185
+					}
+				},
+				{
+					"filename": "darkelf_king.img/31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 142,
+						"y": 175,
+						"w": 126,
+						"h": 184
+					},
+					"frame": {
+						"x": 440,
+						"y": 1,
+						"w": 126,
+						"h": 184
+					}
+				},
+				{
+					"filename": "darkelf_king.img/30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 173,
+						"w": 130,
+						"h": 183
+					},
+					"frame": {
+						"x": 568,
+						"y": 1,
+						"w": 130,
+						"h": 183
+					}
+				},
+				{
+					"filename": "darkelf_king.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 141,
+						"y": 173,
+						"w": 161,
+						"h": 182
+					},
+					"frame": {
+						"x": 392,
+						"y": 572,
+						"w": 161,
+						"h": 182
+					}
+				},
+				{
+					"filename": "darkelf_king.img/24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 174,
+						"w": 210,
+						"h": 181
+					},
+					"frame": {
+						"x": 510,
+						"y": 376,
+						"w": 210,
+						"h": 181
+					}
+				},
+				{
+					"filename": "darkelf_king.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 162,
+						"y": 168,
+						"w": 163,
+						"h": 179
+					},
+					"frame": {
+						"x": 649,
+						"y": 186,
+						"w": 163,
+						"h": 179
+					}
+				},
+				{
+					"filename": "darkelf_king.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 162,
+						"y": 167,
+						"w": 126,
+						"h": 178
+					},
+					"frame": {
+						"x": 700,
+						"y": 1,
+						"w": 126,
+						"h": 178
+					}
+				},
+				{
+					"filename": "darkelf_king.img/32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 187,
+						"w": 211,
+						"h": 177
+					},
+					"frame": {
+						"x": 539,
+						"y": 756,
+						"w": 211,
+						"h": 177
+					}
+				},
+				{
+					"filename": "darkelf_king.img/36",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 301,
+						"w": 218,
+						"h": 71
+					},
+					"frame": {
+						"x": 539,
+						"y": 935,
+						"w": 218,
+						"h": 71
+					}
+				},
+				{
+					"filename": "darkelf_king.img/25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 174,
+						"w": 223,
+						"h": 176
+					},
+					"frame": {
+						"x": 555,
+						"y": 559,
+						"w": 223,
+						"h": 176
+					}
+				},
+				{
+					"filename": "darkelf_king.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 201,
+						"y": 174,
+						"w": 126,
+						"h": 175
+					},
+					"frame": {
+						"x": 722,
+						"y": 367,
+						"w": 126,
+						"h": 175
+					}
+				},
+				{
+					"filename": "darkelf_king.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 181,
+						"y": 175,
+						"w": 152,
+						"h": 174
+					},
+					"frame": {
+						"x": 814,
+						"y": 181,
+						"w": 152,
+						"h": 174
+					}
+				},
+				{
+					"filename": "darkelf_king.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 201,
+						"y": 175,
+						"w": 131,
+						"h": 168
+					},
+					"frame": {
+						"x": 828,
+						"y": 1,
+						"w": 131,
+						"h": 168
+					}
+				},
+				{
+					"filename": "darkelf_king.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 170,
+						"w": 212,
+						"h": 167
+					},
+					"frame": {
+						"x": 961,
+						"y": 1,
+						"w": 212,
+						"h": 167
+					}
+				},
+				{
+					"filename": "darkelf_king.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 201,
+						"y": 176,
+						"w": 135,
+						"h": 166
+					},
+					"frame": {
+						"x": 752,
+						"y": 737,
+						"w": 135,
+						"h": 166
+					}
+				},
+				{
+					"filename": "darkelf_king.img/34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 254,
+						"w": 212,
+						"h": 111
+					},
+					"frame": {
+						"x": 759,
+						"y": 905,
+						"w": 212,
+						"h": 111
+					}
+				},
+				{
+					"filename": "darkelf_king.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 176,
+						"w": 195,
+						"h": 164
+					},
+					"frame": {
+						"x": 780,
+						"y": 544,
+						"w": 195,
+						"h": 164
+					}
+				},
+				{
+					"filename": "darkelf_king.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 177,
+						"w": 202,
+						"h": 162
+					},
+					"frame": {
+						"x": 850,
+						"y": 357,
+						"w": 202,
+						"h": 162
+					}
+				},
+				{
+					"filename": "darkelf_king.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 178,
+						"w": 192,
+						"h": 161
+					},
+					"frame": {
+						"x": 968,
+						"y": 170,
+						"w": 192,
+						"h": 161
+					}
+				},
+				{
+					"filename": "darkelf_king.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 177,
+						"w": 188,
+						"h": 160
+					},
+					"frame": {
+						"x": 889,
+						"y": 710,
+						"w": 188,
+						"h": 160
+					}
+				},
+				{
+					"filename": "darkelf_king.img/33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 203,
+						"w": 247,
+						"h": 159
+					},
+					"frame": {
+						"x": 977,
+						"y": 521,
+						"w": 247,
+						"h": 159
+					}
+				},
+				{
+					"filename": "darkelf_king.img/29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 188,
+						"w": 169,
+						"h": 159
+					},
+					"frame": {
+						"x": 1054,
+						"y": 333,
+						"w": 169,
+						"h": 159
+					}
+				},
+				{
+					"filename": "darkelf_king.img/35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 500,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 266,
+						"w": 203,
+						"h": 104
+					},
+					"frame": {
+						"x": 973,
+						"y": 872,
+						"w": 203,
+						"h": 104
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:0f71ccd8d3552eb62e35e2b0e29e743e:19373ee3e7615aef1185d4406720f16c:aafff105a43cd0ff2add58043a70dc27$"
+	}
+}

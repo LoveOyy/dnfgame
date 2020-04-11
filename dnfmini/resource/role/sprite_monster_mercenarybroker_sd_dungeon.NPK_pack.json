@@ -1,0 +1,713 @@
+{
+	"textures": [
+		{
+			"image": "sprite_monster_mercenarybroker_sd_dungeon.NPK_pack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 251,
+				"h": 478
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "stone_sdmage.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 146,
+						"w": 61,
+						"h": 41
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 61,
+						"h": 41
+					}
+				},
+				{
+					"filename": "stone_sdmage.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 146,
+						"w": 61,
+						"h": 41
+					},
+					"frame": {
+						"x": 64,
+						"y": 1,
+						"w": 61,
+						"h": 41
+					}
+				},
+				{
+					"filename": "stone_sdmage.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 146,
+						"w": 61,
+						"h": 41
+					},
+					"frame": {
+						"x": 127,
+						"y": 1,
+						"w": 61,
+						"h": 41
+					}
+				},
+				{
+					"filename": "stone_sdmage.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 133,
+						"w": 60,
+						"h": 49
+					},
+					"frame": {
+						"x": 190,
+						"y": 1,
+						"w": 60,
+						"h": 49
+					}
+				},
+				{
+					"filename": "supplies.img/0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 59,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 59,
+						"h": 93
+					},
+					"frame": {
+						"x": 1,
+						"y": 44,
+						"w": 59,
+						"h": 93
+					}
+				},
+				{
+					"filename": "supplies.img/2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 59,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 59,
+						"h": 93
+					},
+					"frame": {
+						"x": 62,
+						"y": 44,
+						"w": 59,
+						"h": 93
+					}
+				},
+				{
+					"filename": "supplies.img/4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 59,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 59,
+						"h": 93
+					},
+					"frame": {
+						"x": 123,
+						"y": 44,
+						"w": 59,
+						"h": 93
+					}
+				},
+				{
+					"filename": "supplies.img/6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 59,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 59,
+						"h": 93
+					},
+					"frame": {
+						"x": 184,
+						"y": 52,
+						"w": 59,
+						"h": 93
+					}
+				},
+				{
+					"filename": "supplies.img/8",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 59,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 59,
+						"h": 93
+					},
+					"frame": {
+						"x": 1,
+						"y": 139,
+						"w": 59,
+						"h": 93
+					}
+				},
+				{
+					"filename": "supplies.img/9",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 59,
+						"h": 93
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 59,
+						"h": 93
+					},
+					"frame": {
+						"x": 62,
+						"y": 139,
+						"w": 59,
+						"h": 93
+					}
+				},
+				{
+					"filename": "stone_sdmage.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 145,
+						"w": 59,
+						"h": 40
+					},
+					"frame": {
+						"x": 123,
+						"y": 139,
+						"w": 59,
+						"h": 40
+					}
+				},
+				{
+					"filename": "stone_sdswordman.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 147,
+						"w": 57,
+						"h": 40
+					},
+					"frame": {
+						"x": 184,
+						"y": 147,
+						"w": 57,
+						"h": 40
+					}
+				},
+				{
+					"filename": "stone_sdswordman.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 147,
+						"w": 56,
+						"h": 39
+					},
+					"frame": {
+						"x": 123,
+						"y": 181,
+						"w": 56,
+						"h": 39
+					}
+				},
+				{
+					"filename": "stone_sdmage.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 119,
+						"w": 55,
+						"h": 63
+					},
+					"frame": {
+						"x": 181,
+						"y": 189,
+						"w": 55,
+						"h": 63
+					}
+				},
+				{
+					"filename": "stone_sdswordman.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 147,
+						"w": 54,
+						"h": 38
+					},
+					"frame": {
+						"x": 123,
+						"y": 222,
+						"w": 54,
+						"h": 38
+					}
+				},
+				{
+					"filename": "stone_sdmage.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 112,
+						"w": 52,
+						"h": 70
+					},
+					"frame": {
+						"x": 179,
+						"y": 254,
+						"w": 52,
+						"h": 70
+					}
+				},
+				{
+					"filename": "stone_sdmage.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 111,
+						"w": 50,
+						"h": 71
+					},
+					"frame": {
+						"x": 1,
+						"y": 234,
+						"w": 50,
+						"h": 71
+					}
+				},
+				{
+					"filename": "stone_sdswordman.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 147,
+						"w": 50,
+						"h": 38
+					},
+					"frame": {
+						"x": 53,
+						"y": 234,
+						"w": 50,
+						"h": 38
+					}
+				},
+				{
+					"filename": "stone_sdmage.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 111,
+						"w": 49,
+						"h": 71
+					},
+					"frame": {
+						"x": 105,
+						"y": 262,
+						"w": 49,
+						"h": 71
+					}
+				},
+				{
+					"filename": "stone_sdmage.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 111,
+						"w": 49,
+						"h": 71
+					},
+					"frame": {
+						"x": 53,
+						"y": 274,
+						"w": 49,
+						"h": 71
+					}
+				},
+				{
+					"filename": "stone_sdswordman.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 134,
+						"w": 47,
+						"h": 51
+					},
+					"frame": {
+						"x": 1,
+						"y": 307,
+						"w": 47,
+						"h": 51
+					}
+				},
+				{
+					"filename": "stone_sdswordman.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 117,
+						"w": 46,
+						"h": 66
+					},
+					"frame": {
+						"x": 156,
+						"y": 326,
+						"w": 46,
+						"h": 66
+					}
+				},
+				{
+					"filename": "supplies.img/1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 33
+					},
+					"frame": {
+						"x": 104,
+						"y": 335,
+						"w": 46,
+						"h": 33
+					}
+				},
+				{
+					"filename": "supplies.img/10",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 33
+					},
+					"frame": {
+						"x": 204,
+						"y": 326,
+						"w": 46,
+						"h": 33
+					}
+				},
+				{
+					"filename": "supplies.img/11",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 33
+					},
+					"frame": {
+						"x": 204,
+						"y": 361,
+						"w": 46,
+						"h": 33
+					}
+				},
+				{
+					"filename": "supplies.img/3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 33
+					},
+					"frame": {
+						"x": 50,
+						"y": 347,
+						"w": 46,
+						"h": 33
+					}
+				},
+				{
+					"filename": "supplies.img/5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 360,
+						"w": 46,
+						"h": 33
+					}
+				},
+				{
+					"filename": "supplies.img/7",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 33
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 33
+					},
+					"frame": {
+						"x": 98,
+						"y": 370,
+						"w": 46,
+						"h": 33
+					}
+				},
+				{
+					"filename": "stone_sdswordman.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 109,
+						"w": 43,
+						"h": 73
+					},
+					"frame": {
+						"x": 49,
+						"y": 382,
+						"w": 43,
+						"h": 73
+					}
+				},
+				{
+					"filename": "stone_sdswordman.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 110,
+						"w": 43,
+						"h": 72
+					},
+					"frame": {
+						"x": 1,
+						"y": 395,
+						"w": 43,
+						"h": 72
+					}
+				},
+				{
+					"filename": "stone_sdswordman.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 110,
+						"w": 43,
+						"h": 72
+					},
+					"frame": {
+						"x": 146,
+						"y": 394,
+						"w": 43,
+						"h": 72
+					}
+				},
+				{
+					"filename": "stone_sdswordman.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 110,
+						"w": 42,
+						"h": 72
+					},
+					"frame": {
+						"x": 94,
+						"y": 405,
+						"w": 42,
+						"h": 72
+					}
+				},
+				{
+					"filename": "object.img/0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 41,
+						"h": 65
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 41,
+						"h": 65
+					},
+					"frame": {
+						"x": 191,
+						"y": 396,
+						"w": 41,
+						"h": 65
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:858326ff0075114e877766b367152edb:054f4e6f938a6b51c0d85163d5f825a2:e448dd954b5468434eb4489e40b0ae28$"
+	}
+}

@@ -1,0 +1,7034 @@
+{
+	"textures": [
+		{
+			"image": "sprite_monster_mercenarybroker_sd_swordman_m_raksasa.NPK_pack.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1792,
+				"h": 251
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lemures.img/76",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 96,
+						"w": 50,
+						"h": 100
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 50,
+						"h": 100
+					}
+				},
+				{
+					"filename": "lemures.img/74",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 92,
+						"w": 44,
+						"h": 98
+					},
+					"frame": {
+						"x": 1,
+						"y": 103,
+						"w": 44,
+						"h": 98
+					}
+				},
+				{
+					"filename": "call_lemures.img/23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 146,
+						"w": 51,
+						"h": 47
+					},
+					"frame": {
+						"x": 1,
+						"y": 203,
+						"w": 51,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/75",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 106,
+						"w": 51,
+						"h": 87
+					},
+					"frame": {
+						"x": 53,
+						"y": 1,
+						"w": 51,
+						"h": 87
+					}
+				},
+				{
+					"filename": "lemures.img/77",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 110,
+						"w": 56,
+						"h": 81
+					},
+					"frame": {
+						"x": 106,
+						"y": 1,
+						"w": 56,
+						"h": 81
+					}
+				},
+				{
+					"filename": "lemures.img/73",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 114,
+						"w": 55,
+						"h": 75
+					},
+					"frame": {
+						"x": 164,
+						"y": 1,
+						"w": 55,
+						"h": 75
+					}
+				},
+				{
+					"filename": "sword.img/57",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 153,
+						"w": 82,
+						"h": 40
+					},
+					"frame": {
+						"x": 221,
+						"y": 1,
+						"w": 82,
+						"h": 40
+					}
+				},
+				{
+					"filename": "call_lemures.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 154,
+						"w": 78,
+						"h": 40
+					},
+					"frame": {
+						"x": 305,
+						"y": 1,
+						"w": 78,
+						"h": 40
+					}
+				},
+				{
+					"filename": "lemures.img/134",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 154,
+						"w": 75,
+						"h": 40
+					},
+					"frame": {
+						"x": 385,
+						"y": 1,
+						"w": 75,
+						"h": 40
+					}
+				},
+				{
+					"filename": "call_lemures.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 150,
+						"w": 73,
+						"h": 43
+					},
+					"frame": {
+						"x": 462,
+						"y": 1,
+						"w": 73,
+						"h": 43
+					}
+				},
+				{
+					"filename": "call_lemures.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 144,
+						"w": 70,
+						"h": 48
+					},
+					"frame": {
+						"x": 537,
+						"y": 1,
+						"w": 70,
+						"h": 48
+					}
+				},
+				{
+					"filename": "lemures.img/138",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 144,
+						"w": 70,
+						"h": 48
+					},
+					"frame": {
+						"x": 537,
+						"y": 1,
+						"w": 70,
+						"h": 48
+					}
+				},
+				{
+					"filename": "lemures.img/135",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 150,
+						"w": 68,
+						"h": 43
+					},
+					"frame": {
+						"x": 609,
+						"y": 1,
+						"w": 68,
+						"h": 43
+					}
+				},
+				{
+					"filename": "sword.img/56",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 152,
+						"w": 62,
+						"h": 42
+					},
+					"frame": {
+						"x": 679,
+						"y": 1,
+						"w": 62,
+						"h": 42
+					}
+				},
+				{
+					"filename": "call_sword.img/24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 152,
+						"y": 151,
+						"w": 59,
+						"h": 44
+					},
+					"frame": {
+						"x": 743,
+						"y": 1,
+						"w": 59,
+						"h": 44
+					}
+				},
+				{
+					"filename": "call_sword.img/25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 151,
+						"y": 153,
+						"w": 59,
+						"h": 42
+					},
+					"frame": {
+						"x": 804,
+						"y": 1,
+						"w": 59,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/54",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 146,
+						"w": 53,
+						"h": 41
+					},
+					"frame": {
+						"x": 865,
+						"y": 1,
+						"w": 53,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/55",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 152,
+						"w": 53,
+						"h": 41
+					},
+					"frame": {
+						"x": 920,
+						"y": 1,
+						"w": 53,
+						"h": 41
+					}
+				},
+				{
+					"filename": "call_lemures.img/22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 98,
+						"y": 146,
+						"w": 51,
+						"h": 49
+					},
+					"frame": {
+						"x": 975,
+						"y": 1,
+						"w": 51,
+						"h": 49
+					}
+				},
+				{
+					"filename": "call_lemures.img/24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 143,
+						"w": 51,
+						"h": 50
+					},
+					"frame": {
+						"x": 1028,
+						"y": 1,
+						"w": 51,
+						"h": 50
+					}
+				},
+				{
+					"filename": "call_lemures.img/25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 139,
+						"w": 51,
+						"h": 54
+					},
+					"frame": {
+						"x": 1081,
+						"y": 1,
+						"w": 51,
+						"h": 54
+					}
+				},
+				{
+					"filename": "lemures.img/142",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 139,
+						"w": 51,
+						"h": 54
+					},
+					"frame": {
+						"x": 1081,
+						"y": 1,
+						"w": 51,
+						"h": 54
+					}
+				},
+				{
+					"filename": "sword.img/70",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 134,
+						"w": 50,
+						"h": 57
+					},
+					"frame": {
+						"x": 1134,
+						"y": 1,
+						"w": 50,
+						"h": 57
+					}
+				},
+				{
+					"filename": "sword.img/72",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 136,
+						"w": 49,
+						"h": 55
+					},
+					"frame": {
+						"x": 1186,
+						"y": 1,
+						"w": 49,
+						"h": 55
+					}
+				},
+				{
+					"filename": "lemures.img/141",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 143,
+						"w": 51,
+						"h": 50
+					},
+					"frame": {
+						"x": 1237,
+						"y": 1,
+						"w": 51,
+						"h": 50
+					}
+				},
+				{
+					"filename": "sword.img/71",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 140,
+						"w": 50,
+						"h": 51
+					},
+					"frame": {
+						"x": 1290,
+						"y": 1,
+						"w": 50,
+						"h": 51
+					}
+				},
+				{
+					"filename": "call_lemures.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 138,
+						"w": 48,
+						"h": 51
+					},
+					"frame": {
+						"x": 1342,
+						"y": 1,
+						"w": 48,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/122",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 138,
+						"w": 48,
+						"h": 51
+					},
+					"frame": {
+						"x": 1342,
+						"y": 1,
+						"w": 48,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/112",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 138,
+						"w": 48,
+						"h": 51
+					},
+					"frame": {
+						"x": 1392,
+						"y": 1,
+						"w": 48,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/139",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 146,
+						"w": 50,
+						"h": 49
+					},
+					"frame": {
+						"x": 1442,
+						"y": 1,
+						"w": 50,
+						"h": 49
+					}
+				},
+				{
+					"filename": "call_lemures.img/26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 146,
+						"w": 51,
+						"h": 47
+					},
+					"frame": {
+						"x": 1494,
+						"y": 1,
+						"w": 51,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/143",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 146,
+						"w": 51,
+						"h": 47
+					},
+					"frame": {
+						"x": 1494,
+						"y": 1,
+						"w": 51,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/140",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 146,
+						"w": 51,
+						"h": 47
+					},
+					"frame": {
+						"x": 1547,
+						"y": 1,
+						"w": 51,
+						"h": 47
+					}
+				},
+				{
+					"filename": "call_sword.img/22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 150,
+						"y": 148,
+						"w": 51,
+						"h": 44
+					},
+					"frame": {
+						"x": 1600,
+						"y": 1,
+						"w": 51,
+						"h": 44
+					}
+				},
+				{
+					"filename": "sword.img/41",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 147,
+						"w": 51,
+						"h": 44
+					},
+					"frame": {
+						"x": 1653,
+						"y": 1,
+						"w": 51,
+						"h": 44
+					}
+				},
+				{
+					"filename": "call_sword.img/23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 151,
+						"y": 150,
+						"w": 50,
+						"h": 42
+					},
+					"frame": {
+						"x": 1706,
+						"y": 1,
+						"w": 50,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lemures.img/130",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 135,
+						"w": 33,
+						"h": 59
+					},
+					"frame": {
+						"x": 1758,
+						"y": 1,
+						"w": 33,
+						"h": 59
+					}
+				},
+				{
+					"filename": "sword.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 148,
+						"w": 50,
+						"h": 42
+					},
+					"frame": {
+						"x": 221,
+						"y": 43,
+						"w": 50,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 149,
+						"w": 50,
+						"h": 42
+					},
+					"frame": {
+						"x": 273,
+						"y": 43,
+						"w": 50,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/38",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 147,
+						"w": 50,
+						"h": 41
+					},
+					"frame": {
+						"x": 325,
+						"y": 43,
+						"w": 50,
+						"h": 41
+					}
+				},
+				{
+					"filename": "lemures.img/71",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 145,
+						"w": 48,
+						"h": 47
+					},
+					"frame": {
+						"x": 377,
+						"y": 43,
+						"w": 48,
+						"h": 47
+					}
+				},
+				{
+					"filename": "sword.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 144,
+						"w": 33,
+						"h": 46
+					},
+					"frame": {
+						"x": 427,
+						"y": 43,
+						"w": 33,
+						"h": 46
+					}
+				},
+				{
+					"filename": "call_lemures.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 138,
+						"w": 47,
+						"h": 51
+					},
+					"frame": {
+						"x": 462,
+						"y": 46,
+						"w": 47,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/120",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 138,
+						"w": 47,
+						"h": 51
+					},
+					"frame": {
+						"x": 462,
+						"y": 46,
+						"w": 47,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/37",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 157,
+						"y": 132,
+						"w": 22,
+						"h": 60
+					},
+					"frame": {
+						"x": 511,
+						"y": 46,
+						"w": 22,
+						"h": 60
+					}
+				},
+				{
+					"filename": "lemures.img/42",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 131,
+						"w": 22,
+						"h": 60
+					},
+					"frame": {
+						"x": 511,
+						"y": 46,
+						"w": 22,
+						"h": 60
+					}
+				},
+				{
+					"filename": "sword.img/73",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 93,
+						"y": 131,
+						"w": 45,
+						"h": 60
+					},
+					"frame": {
+						"x": 535,
+						"y": 51,
+						"w": 45,
+						"h": 60
+					}
+				},
+				{
+					"filename": "call_lemures.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 52,
+						"w": 32,
+						"h": 60
+					},
+					"frame": {
+						"x": 582,
+						"y": 51,
+						"w": 32,
+						"h": 60
+					}
+				},
+				{
+					"filename": "lemures.img/127",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 52,
+						"w": 32,
+						"h": 60
+					},
+					"frame": {
+						"x": 582,
+						"y": 51,
+						"w": 32,
+						"h": 60
+					}
+				},
+				{
+					"filename": "call_lemures.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 138,
+						"w": 47,
+						"h": 51
+					},
+					"frame": {
+						"x": 616,
+						"y": 46,
+						"w": 47,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/121",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 138,
+						"w": 47,
+						"h": 51
+					},
+					"frame": {
+						"x": 616,
+						"y": 46,
+						"w": 47,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/38",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 162,
+						"y": 126,
+						"w": 8,
+						"h": 69
+					},
+					"frame": {
+						"x": 47,
+						"y": 103,
+						"w": 8,
+						"h": 69
+					}
+				},
+				{
+					"filename": "lemures.img/110",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 138,
+						"w": 47,
+						"h": 51
+					},
+					"frame": {
+						"x": 57,
+						"y": 90,
+						"w": 47,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/111",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 138,
+						"w": 47,
+						"h": 51
+					},
+					"frame": {
+						"x": 106,
+						"y": 84,
+						"w": 47,
+						"h": 51
+					}
+				},
+				{
+					"filename": "call_lemures.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 139,
+						"w": 47,
+						"h": 50
+					},
+					"frame": {
+						"x": 57,
+						"y": 143,
+						"w": 47,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/126",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 139,
+						"w": 47,
+						"h": 50
+					},
+					"frame": {
+						"x": 57,
+						"y": 143,
+						"w": 47,
+						"h": 50
+					}
+				},
+				{
+					"filename": "call_lemures.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 151,
+						"y": 59,
+						"w": 34,
+						"h": 55
+					},
+					"frame": {
+						"x": 54,
+						"y": 195,
+						"w": 34,
+						"h": 55
+					}
+				},
+				{
+					"filename": "lemures.img/128",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 151,
+						"y": 59,
+						"w": 34,
+						"h": 55
+					},
+					"frame": {
+						"x": 54,
+						"y": 195,
+						"w": 34,
+						"h": 55
+					}
+				},
+				{
+					"filename": "call_lemures.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 179,
+						"y": 138,
+						"w": 46,
+						"h": 51
+					},
+					"frame": {
+						"x": 106,
+						"y": 137,
+						"w": 46,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/123",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 179,
+						"y": 138,
+						"w": 46,
+						"h": 51
+					},
+					"frame": {
+						"x": 106,
+						"y": 137,
+						"w": 46,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/131",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 134,
+						"w": 34,
+						"h": 60
+					},
+					"frame": {
+						"x": 106,
+						"y": 190,
+						"w": 34,
+						"h": 60
+					}
+				},
+				{
+					"filename": "call_lemures.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 155,
+						"y": 134,
+						"w": 31,
+						"h": 60
+					},
+					"frame": {
+						"x": 142,
+						"y": 190,
+						"w": 31,
+						"h": 60
+					}
+				},
+				{
+					"filename": "call_lemures.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 152,
+						"y": 143,
+						"w": 36,
+						"h": 51
+					},
+					"frame": {
+						"x": 154,
+						"y": 137,
+						"w": 36,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/113",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 138,
+						"w": 46,
+						"h": 51
+					},
+					"frame": {
+						"x": 155,
+						"y": 84,
+						"w": 46,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/116",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 139,
+						"w": 47,
+						"h": 50
+					},
+					"frame": {
+						"x": 203,
+						"y": 87,
+						"w": 47,
+						"h": 50
+					}
+				},
+				{
+					"filename": "call_lemures.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 179,
+						"y": 139,
+						"w": 46,
+						"h": 50
+					},
+					"frame": {
+						"x": 252,
+						"y": 87,
+						"w": 46,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/119",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 179,
+						"y": 139,
+						"w": 46,
+						"h": 50
+					},
+					"frame": {
+						"x": 252,
+						"y": 87,
+						"w": 46,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/109",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 139,
+						"w": 46,
+						"h": 50
+					},
+					"frame": {
+						"x": 192,
+						"y": 139,
+						"w": 46,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/132",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 135,
+						"w": 35,
+						"h": 59
+					},
+					"frame": {
+						"x": 175,
+						"y": 191,
+						"w": 35,
+						"h": 59
+					}
+				},
+				{
+					"filename": "lemures.img/133",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 135,
+						"w": 35,
+						"h": 59
+					},
+					"frame": {
+						"x": 212,
+						"y": 191,
+						"w": 35,
+						"h": 59
+					}
+				},
+				{
+					"filename": "call_lemures.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 139,
+						"w": 45,
+						"h": 50
+					},
+					"frame": {
+						"x": 240,
+						"y": 139,
+						"w": 45,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/125",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 139,
+						"w": 45,
+						"h": 50
+					},
+					"frame": {
+						"x": 240,
+						"y": 139,
+						"w": 45,
+						"h": 50
+					}
+				},
+				{
+					"filename": "call_lemures.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 150,
+						"y": 137,
+						"w": 38,
+						"h": 57
+					},
+					"frame": {
+						"x": 249,
+						"y": 191,
+						"w": 38,
+						"h": 57
+					}
+				},
+				{
+					"filename": "call_lemures.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 150,
+						"y": 65,
+						"w": 36,
+						"h": 61
+					},
+					"frame": {
+						"x": 300,
+						"y": 87,
+						"w": 36,
+						"h": 61
+					}
+				},
+				{
+					"filename": "lemures.img/129",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 150,
+						"y": 65,
+						"w": 36,
+						"h": 61
+					},
+					"frame": {
+						"x": 300,
+						"y": 87,
+						"w": 36,
+						"h": 61
+					}
+				},
+				{
+					"filename": "call_lemures.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 152,
+						"y": 144,
+						"w": 37,
+						"h": 50
+					},
+					"frame": {
+						"x": 338,
+						"y": 86,
+						"w": 37,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/56",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 143,
+						"w": 47,
+						"h": 46
+					},
+					"frame": {
+						"x": 377,
+						"y": 92,
+						"w": 47,
+						"h": 46
+					}
+				},
+				{
+					"filename": "sword.img/30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 154,
+						"w": 48,
+						"h": 37
+					},
+					"frame": {
+						"x": 287,
+						"y": 150,
+						"w": 48,
+						"h": 37
+					}
+				},
+				{
+					"filename": "lemures.img/115",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 139,
+						"w": 45,
+						"h": 50
+					},
+					"frame": {
+						"x": 289,
+						"y": 189,
+						"w": 45,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 142,
+						"w": 43,
+						"h": 51
+					},
+					"frame": {
+						"x": 665,
+						"y": 46,
+						"w": 43,
+						"h": 51
+					}
+				},
+				{
+					"filename": "sword.img/68",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 145,
+						"w": 31,
+						"h": 46
+					},
+					"frame": {
+						"x": 710,
+						"y": 45,
+						"w": 31,
+						"h": 46
+					}
+				},
+				{
+					"filename": "lemures.img/68",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 144,
+						"w": 47,
+						"h": 48
+					},
+					"frame": {
+						"x": 743,
+						"y": 47,
+						"w": 47,
+						"h": 48
+					}
+				},
+				{
+					"filename": "sword.img/29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 153,
+						"w": 48,
+						"h": 40
+					},
+					"frame": {
+						"x": 616,
+						"y": 99,
+						"w": 48,
+						"h": 40
+					}
+				},
+				{
+					"filename": "call_lemures.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 181,
+						"y": 141,
+						"w": 44,
+						"h": 48
+					},
+					"frame": {
+						"x": 666,
+						"y": 99,
+						"w": 44,
+						"h": 48
+					}
+				},
+				{
+					"filename": "lemures.img/117",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 181,
+						"y": 141,
+						"w": 44,
+						"h": 48
+					},
+					"frame": {
+						"x": 666,
+						"y": 99,
+						"w": 44,
+						"h": 48
+					}
+				},
+				{
+					"filename": "lemures.img/46",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 141,
+						"w": 45,
+						"h": 50
+					},
+					"frame": {
+						"x": 712,
+						"y": 97,
+						"w": 45,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 143,
+						"w": 42,
+						"h": 50
+					},
+					"frame": {
+						"x": 759,
+						"y": 97,
+						"w": 42,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 141,
+						"w": 44,
+						"h": 48
+					},
+					"frame": {
+						"x": 792,
+						"y": 47,
+						"w": 44,
+						"h": 48
+					}
+				},
+				{
+					"filename": "lemures.img/29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 142,
+						"w": 43,
+						"h": 51
+					},
+					"frame": {
+						"x": 803,
+						"y": 97,
+						"w": 43,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 150,
+						"y": 143,
+						"w": 40,
+						"h": 50
+					},
+					"frame": {
+						"x": 838,
+						"y": 45,
+						"w": 40,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 142,
+						"w": 44,
+						"h": 51
+					},
+					"frame": {
+						"x": 880,
+						"y": 44,
+						"w": 44,
+						"h": 51
+					}
+				},
+				{
+					"filename": "sword.img/59",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 148,
+						"w": 47,
+						"h": 47
+					},
+					"frame": {
+						"x": 926,
+						"y": 44,
+						"w": 47,
+						"h": 47
+					}
+				},
+				{
+					"filename": "call_lemures.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 140,
+						"w": 45,
+						"h": 49
+					},
+					"frame": {
+						"x": 848,
+						"y": 97,
+						"w": 45,
+						"h": 49
+					}
+				},
+				{
+					"filename": "lemures.img/118",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 140,
+						"w": 45,
+						"h": 49
+					},
+					"frame": {
+						"x": 848,
+						"y": 97,
+						"w": 45,
+						"h": 49
+					}
+				},
+				{
+					"filename": "sword.img/39",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 147,
+						"w": 48,
+						"h": 41
+					},
+					"frame": {
+						"x": 975,
+						"y": 52,
+						"w": 48,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/75",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 153,
+						"w": 48,
+						"h": 40
+					},
+					"frame": {
+						"x": 1025,
+						"y": 53,
+						"w": 48,
+						"h": 40
+					}
+				},
+				{
+					"filename": "call_lemures.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 143,
+						"w": 38,
+						"h": 49
+					},
+					"frame": {
+						"x": 895,
+						"y": 97,
+						"w": 38,
+						"h": 49
+					}
+				},
+				{
+					"filename": "lemures.img/137",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 143,
+						"w": 38,
+						"h": 49
+					},
+					"frame": {
+						"x": 895,
+						"y": 97,
+						"w": 38,
+						"h": 49
+					}
+				},
+				{
+					"filename": "lemures.img/36",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 141,
+						"w": 38,
+						"h": 51
+					},
+					"frame": {
+						"x": 935,
+						"y": 93,
+						"w": 38,
+						"h": 51
+					}
+				},
+				{
+					"filename": "call_lemures.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 140,
+						"w": 45,
+						"h": 49
+					},
+					"frame": {
+						"x": 975,
+						"y": 95,
+						"w": 45,
+						"h": 49
+					}
+				},
+				{
+					"filename": "lemures.img/124",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 140,
+						"w": 45,
+						"h": 49
+					},
+					"frame": {
+						"x": 975,
+						"y": 95,
+						"w": 45,
+						"h": 49
+					}
+				},
+				{
+					"filename": "lemures.img/108",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 140,
+						"w": 45,
+						"h": 49
+					},
+					"frame": {
+						"x": 1022,
+						"y": 95,
+						"w": 45,
+						"h": 49
+					}
+				},
+				{
+					"filename": "sword.img/31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 155,
+						"w": 48,
+						"h": 36
+					},
+					"frame": {
+						"x": 1075,
+						"y": 57,
+						"w": 48,
+						"h": 36
+					}
+				},
+				{
+					"filename": "lemures.img/114",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 140,
+						"w": 45,
+						"h": 49
+					},
+					"frame": {
+						"x": 1069,
+						"y": 95,
+						"w": 45,
+						"h": 49
+					}
+				},
+				{
+					"filename": "sword.img/32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 155,
+						"w": 48,
+						"h": 36
+					},
+					"frame": {
+						"x": 1125,
+						"y": 60,
+						"w": 48,
+						"h": 36
+					}
+				},
+				{
+					"filename": "lemures.img/70",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 144,
+						"w": 47,
+						"h": 46
+					},
+					"frame": {
+						"x": 1116,
+						"y": 98,
+						"w": 47,
+						"h": 46
+					}
+				},
+				{
+					"filename": "call_sword.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 173,
+						"y": 144,
+						"w": 46,
+						"h": 47
+					},
+					"frame": {
+						"x": 1165,
+						"y": 98,
+						"w": 46,
+						"h": 47
+					}
+				},
+				{
+					"filename": "call_sword.img/26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 167,
+						"y": 158,
+						"w": 43,
+						"h": 38
+					},
+					"frame": {
+						"x": 1186,
+						"y": 58,
+						"w": 43,
+						"h": 38
+					}
+				},
+				{
+					"filename": "lemures.img/25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 151,
+						"y": 145,
+						"w": 38,
+						"h": 48
+					},
+					"frame": {
+						"x": 1213,
+						"y": 98,
+						"w": 38,
+						"h": 48
+					}
+				},
+				{
+					"filename": "sword.img/81",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 149,
+						"w": 47,
+						"h": 43
+					},
+					"frame": {
+						"x": 1237,
+						"y": 53,
+						"w": 47,
+						"h": 43
+					}
+				},
+				{
+					"filename": "sword.img/78",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 148,
+						"w": 48,
+						"h": 42
+					},
+					"frame": {
+						"x": 1286,
+						"y": 54,
+						"w": 48,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lemures.img/44",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 144,
+						"w": 45,
+						"h": 48
+					},
+					"frame": {
+						"x": 1253,
+						"y": 98,
+						"w": 45,
+						"h": 48
+					}
+				},
+				{
+					"filename": "sword.img/22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 149,
+						"w": 47,
+						"h": 42
+					},
+					"frame": {
+						"x": 1336,
+						"y": 54,
+						"w": 47,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lemures.img/45",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 142,
+						"w": 45,
+						"h": 49
+					},
+					"frame": {
+						"x": 1300,
+						"y": 98,
+						"w": 45,
+						"h": 49
+					}
+				},
+				{
+					"filename": "sword.img/23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 150,
+						"w": 47,
+						"h": 42
+					},
+					"frame": {
+						"x": 1385,
+						"y": 54,
+						"w": 47,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lemures.img/54",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 141,
+						"w": 45,
+						"h": 48
+					},
+					"frame": {
+						"x": 1347,
+						"y": 98,
+						"w": 45,
+						"h": 48
+					}
+				},
+				{
+					"filename": "lemures.img/26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 150,
+						"y": 144,
+						"w": 40,
+						"h": 49
+					},
+					"frame": {
+						"x": 1394,
+						"y": 98,
+						"w": 40,
+						"h": 49
+					}
+				},
+				{
+					"filename": "sword.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 144,
+						"w": 34,
+						"h": 47
+					},
+					"frame": {
+						"x": 426,
+						"y": 92,
+						"w": 34,
+						"h": 47
+					}
+				},
+				{
+					"filename": "sword.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 150,
+						"w": 47,
+						"h": 41
+					},
+					"frame": {
+						"x": 462,
+						"y": 99,
+						"w": 47,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/76",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 154,
+						"w": 48,
+						"h": 37
+					},
+					"frame": {
+						"x": 511,
+						"y": 113,
+						"w": 48,
+						"h": 37
+					}
+				},
+				{
+					"filename": "sword.img/79",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 149,
+						"w": 48,
+						"h": 41
+					},
+					"frame": {
+						"x": 561,
+						"y": 113,
+						"w": 48,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/53",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 146,
+						"w": 47,
+						"h": 44
+					},
+					"frame": {
+						"x": 611,
+						"y": 141,
+						"w": 47,
+						"h": 44
+					}
+				},
+				{
+					"filename": "sword.img/77",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 149,
+						"w": 47,
+						"h": 42
+					},
+					"frame": {
+						"x": 660,
+						"y": 149,
+						"w": 47,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lemures.img/69",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 142,
+						"w": 46,
+						"h": 47
+					},
+					"frame": {
+						"x": 709,
+						"y": 149,
+						"w": 46,
+						"h": 47
+					}
+				},
+				{
+					"filename": "sword.img/58",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 152,
+						"w": 44,
+						"h": 47
+					},
+					"frame": {
+						"x": 757,
+						"y": 149,
+						"w": 44,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/57",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 145,
+						"w": 43,
+						"h": 46
+					},
+					"frame": {
+						"x": 803,
+						"y": 150,
+						"w": 43,
+						"h": 46
+					}
+				},
+				{
+					"filename": "lemures.img/58",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 143,
+						"w": 43,
+						"h": 48
+					},
+					"frame": {
+						"x": 848,
+						"y": 148,
+						"w": 43,
+						"h": 48
+					}
+				},
+				{
+					"filename": "lemures.img/31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 141,
+						"w": 42,
+						"h": 52
+					},
+					"frame": {
+						"x": 893,
+						"y": 148,
+						"w": 42,
+						"h": 52
+					}
+				},
+				{
+					"filename": "lemures.img/47",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 144,
+						"w": 40,
+						"h": 54
+					},
+					"frame": {
+						"x": 937,
+						"y": 146,
+						"w": 40,
+						"h": 54
+					}
+				},
+				{
+					"filename": "lemures.img/59",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 142,
+						"w": 43,
+						"h": 51
+					},
+					"frame": {
+						"x": 979,
+						"y": 146,
+						"w": 43,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 142,
+						"w": 42,
+						"h": 51
+					},
+					"frame": {
+						"x": 1024,
+						"y": 146,
+						"w": 42,
+						"h": 51
+					}
+				},
+				{
+					"filename": "lemures.img/72",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 142,
+						"w": 43,
+						"h": 50
+					},
+					"frame": {
+						"x": 1068,
+						"y": 146,
+						"w": 43,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/60",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 144,
+						"w": 41,
+						"h": 50
+					},
+					"frame": {
+						"x": 1113,
+						"y": 146,
+						"w": 41,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/64",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 143,
+						"w": 43,
+						"h": 48
+					},
+					"frame": {
+						"x": 1156,
+						"y": 147,
+						"w": 43,
+						"h": 48
+					}
+				},
+				{
+					"filename": "sword.img/48",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 154,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 1201,
+						"y": 148,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "sword.img/64",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 154,
+						"w": 45,
+						"h": 45
+					},
+					"frame": {
+						"x": 1248,
+						"y": 148,
+						"w": 45,
+						"h": 45
+					}
+				},
+				{
+					"filename": "sword.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 148,
+						"w": 46,
+						"h": 43
+					},
+					"frame": {
+						"x": 1295,
+						"y": 149,
+						"w": 46,
+						"h": 43
+					}
+				},
+				{
+					"filename": "lemures.img/51",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 145,
+						"w": 40,
+						"h": 48
+					},
+					"frame": {
+						"x": 336,
+						"y": 202,
+						"w": 40,
+						"h": 48
+					}
+				},
+				{
+					"filename": "sword.img/60",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 147,
+						"w": 40,
+						"h": 48
+					},
+					"frame": {
+						"x": 378,
+						"y": 202,
+						"w": 40,
+						"h": 48
+					}
+				},
+				{
+					"filename": "lemures.img/35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 151,
+						"y": 145,
+						"w": 38,
+						"h": 48
+					},
+					"frame": {
+						"x": 420,
+						"y": 202,
+						"w": 38,
+						"h": 48
+					}
+				},
+				{
+					"filename": "lemures.img/34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 151,
+						"y": 143,
+						"w": 39,
+						"h": 50
+					},
+					"frame": {
+						"x": 337,
+						"y": 150,
+						"w": 39,
+						"h": 50
+					}
+				},
+				{
+					"filename": "call_sword.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 183,
+						"y": 147,
+						"w": 44,
+						"h": 44
+					},
+					"frame": {
+						"x": 378,
+						"y": 156,
+						"w": 44,
+						"h": 44
+					}
+				},
+				{
+					"filename": "lemures.img/79",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 144,
+						"y": 147,
+						"w": 39,
+						"h": 44
+					},
+					"frame": {
+						"x": 424,
+						"y": 156,
+						"w": 39,
+						"h": 44
+					}
+				},
+				{
+					"filename": "lemures.img/81",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 154,
+						"y": 149,
+						"w": 39,
+						"h": 44
+					},
+					"frame": {
+						"x": 424,
+						"y": 156,
+						"w": 39,
+						"h": 44
+					}
+				},
+				{
+					"filename": "sword.img/37",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 147,
+						"w": 44,
+						"h": 44
+					},
+					"frame": {
+						"x": 465,
+						"y": 142,
+						"w": 44,
+						"h": 44
+					}
+				},
+				{
+					"filename": "sword.img/80",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 151,
+						"w": 47,
+						"h": 41
+					},
+					"frame": {
+						"x": 511,
+						"y": 152,
+						"w": 47,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 150,
+						"w": 46,
+						"h": 41
+					},
+					"frame": {
+						"x": 560,
+						"y": 156,
+						"w": 46,
+						"h": 41
+					}
+				},
+				{
+					"filename": "call_sword.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 181,
+						"y": 147,
+						"w": 43,
+						"h": 45
+					},
+					"frame": {
+						"x": 465,
+						"y": 188,
+						"w": 43,
+						"h": 45
+					}
+				},
+				{
+					"filename": "sword.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 150,
+						"w": 46,
+						"h": 41
+					},
+					"frame": {
+						"x": 510,
+						"y": 195,
+						"w": 46,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/40",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 148,
+						"w": 46,
+						"h": 41
+					},
+					"frame": {
+						"x": 558,
+						"y": 199,
+						"w": 46,
+						"h": 41
+					}
+				},
+				{
+					"filename": "call_sword.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 148,
+						"w": 41,
+						"h": 42
+					},
+					"frame": {
+						"x": 1434,
+						"y": 54,
+						"w": 41,
+						"h": 42
+					}
+				},
+				{
+					"filename": "call_sword.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 148,
+						"w": 41,
+						"h": 42
+					},
+					"frame": {
+						"x": 1434,
+						"y": 54,
+						"w": 41,
+						"h": 42
+					}
+				},
+				{
+					"filename": "call_sword.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 148,
+						"w": 41,
+						"h": 42
+					},
+					"frame": {
+						"x": 1434,
+						"y": 54,
+						"w": 41,
+						"h": 42
+					}
+				},
+				{
+					"filename": "call_sword.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 148,
+						"w": 41,
+						"h": 42
+					},
+					"frame": {
+						"x": 1434,
+						"y": 54,
+						"w": 41,
+						"h": 42
+					}
+				},
+				{
+					"filename": "call_sword.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 148,
+						"w": 41,
+						"h": 42
+					},
+					"frame": {
+						"x": 1434,
+						"y": 54,
+						"w": 41,
+						"h": 42
+					}
+				},
+				{
+					"filename": "lemures.img/50",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 144,
+						"w": 39,
+						"h": 49
+					},
+					"frame": {
+						"x": 1436,
+						"y": 98,
+						"w": 39,
+						"h": 49
+					}
+				},
+				{
+					"filename": "lemures.img/43",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 141,
+						"w": 38,
+						"h": 50
+					},
+					"frame": {
+						"x": 1477,
+						"y": 52,
+						"w": 38,
+						"h": 50
+					}
+				},
+				{
+					"filename": "sword.img/49",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 151,
+						"w": 43,
+						"h": 47
+					},
+					"frame": {
+						"x": 1517,
+						"y": 50,
+						"w": 43,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/48",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 147,
+						"w": 40,
+						"h": 47
+					},
+					"frame": {
+						"x": 1562,
+						"y": 50,
+						"w": 40,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/53",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 144,
+						"w": 42,
+						"h": 47
+					},
+					"frame": {
+						"x": 1604,
+						"y": 47,
+						"w": 42,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/61",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 147,
+						"w": 42,
+						"h": 47
+					},
+					"frame": {
+						"x": 1648,
+						"y": 47,
+						"w": 42,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/49",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 146,
+						"w": 38,
+						"h": 47
+					},
+					"frame": {
+						"x": 1477,
+						"y": 104,
+						"w": 38,
+						"h": 47
+					}
+				},
+				{
+					"filename": "sword.img/69",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 141,
+						"w": 39,
+						"h": 50
+					},
+					"frame": {
+						"x": 1517,
+						"y": 99,
+						"w": 39,
+						"h": 50
+					}
+				},
+				{
+					"filename": "lemures.img/55",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 93,
+						"y": 143,
+						"w": 41,
+						"h": 47
+					},
+					"frame": {
+						"x": 1558,
+						"y": 99,
+						"w": 41,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/62",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 146,
+						"w": 38,
+						"h": 47
+					},
+					"frame": {
+						"x": 1692,
+						"y": 47,
+						"w": 38,
+						"h": 47
+					}
+				},
+				{
+					"filename": "sword.img/34",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 149,
+						"w": 42,
+						"h": 43
+					},
+					"frame": {
+						"x": 608,
+						"y": 187,
+						"w": 42,
+						"h": 43
+					}
+				},
+				{
+					"filename": "lemures.img/65",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 144,
+						"w": 41,
+						"h": 47
+					},
+					"frame": {
+						"x": 652,
+						"y": 193,
+						"w": 41,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/66",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 145,
+						"w": 41,
+						"h": 46
+					},
+					"frame": {
+						"x": 695,
+						"y": 198,
+						"w": 41,
+						"h": 46
+					}
+				},
+				{
+					"filename": "lemures.img/78",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 142,
+						"y": 148,
+						"w": 41,
+						"h": 47
+					},
+					"frame": {
+						"x": 738,
+						"y": 198,
+						"w": 41,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/80",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 151,
+						"y": 149,
+						"w": 41,
+						"h": 47
+					},
+					"frame": {
+						"x": 738,
+						"y": 198,
+						"w": 41,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/67",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 144,
+						"w": 40,
+						"h": 47
+					},
+					"frame": {
+						"x": 781,
+						"y": 198,
+						"w": 40,
+						"h": 47
+					}
+				},
+				{
+					"filename": "lemures.img/63",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 144,
+						"w": 39,
+						"h": 49
+					},
+					"frame": {
+						"x": 823,
+						"y": 198,
+						"w": 39,
+						"h": 49
+					}
+				},
+				{
+					"filename": "lemures.img/52",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 145,
+						"w": 38,
+						"h": 46
+					},
+					"frame": {
+						"x": 864,
+						"y": 202,
+						"w": 38,
+						"h": 46
+					}
+				},
+				{
+					"filename": "sword.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 145,
+						"w": 37,
+						"h": 46
+					},
+					"frame": {
+						"x": 904,
+						"y": 202,
+						"w": 37,
+						"h": 46
+					}
+				},
+				{
+					"filename": "sword.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 145,
+						"w": 36,
+						"h": 46
+					},
+					"frame": {
+						"x": 943,
+						"y": 202,
+						"w": 36,
+						"h": 46
+					}
+				},
+				{
+					"filename": "sword.img/67",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 147,
+						"w": 39,
+						"h": 44
+					},
+					"frame": {
+						"x": 981,
+						"y": 199,
+						"w": 39,
+						"h": 44
+					}
+				},
+				{
+					"filename": "sword.img/28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 100,
+						"y": 152,
+						"w": 40,
+						"h": 42
+					},
+					"frame": {
+						"x": 1022,
+						"y": 199,
+						"w": 40,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 145,
+						"w": 32,
+						"h": 46
+					},
+					"frame": {
+						"x": 1601,
+						"y": 99,
+						"w": 32,
+						"h": 46
+					}
+				},
+				{
+					"filename": "sword.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 147,
+						"w": 37,
+						"h": 45
+					},
+					"frame": {
+						"x": 1635,
+						"y": 96,
+						"w": 37,
+						"h": 45
+					}
+				},
+				{
+					"filename": "sword.img/24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 147,
+						"w": 37,
+						"h": 45
+					},
+					"frame": {
+						"x": 1674,
+						"y": 96,
+						"w": 37,
+						"h": 45
+					}
+				},
+				{
+					"filename": "sword.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 146,
+						"w": 36,
+						"h": 45
+					},
+					"frame": {
+						"x": 1713,
+						"y": 96,
+						"w": 36,
+						"h": 45
+					}
+				},
+				{
+					"filename": "sword.img/74",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 152,
+						"w": 40,
+						"h": 42
+					},
+					"frame": {
+						"x": 1751,
+						"y": 62,
+						"w": 40,
+						"h": 42
+					}
+				},
+				{
+					"filename": "call_sword.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 149,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 1751,
+						"y": 106,
+						"w": 40,
+						"h": 41
+					}
+				},
+				{
+					"filename": "call_sword.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 149,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 1751,
+						"y": 106,
+						"w": 40,
+						"h": 41
+					}
+				},
+				{
+					"filename": "call_sword.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 149,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 1751,
+						"y": 106,
+						"w": 40,
+						"h": 41
+					}
+				},
+				{
+					"filename": "call_sword.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 149,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 1751,
+						"y": 106,
+						"w": 40,
+						"h": 41
+					}
+				},
+				{
+					"filename": "call_sword.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 149,
+						"w": 40,
+						"h": 41
+					},
+					"frame": {
+						"x": 1751,
+						"y": 106,
+						"w": 40,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 145,
+						"w": 33,
+						"h": 45
+					},
+					"frame": {
+						"x": 1343,
+						"y": 149,
+						"w": 33,
+						"h": 45
+					}
+				},
+				{
+					"filename": "sword.img/61",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 147,
+						"w": 37,
+						"h": 45
+					},
+					"frame": {
+						"x": 1378,
+						"y": 149,
+						"w": 37,
+						"h": 45
+					}
+				},
+				{
+					"filename": "sword.img/26",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 146,
+						"w": 37,
+						"h": 44
+					},
+					"frame": {
+						"x": 1417,
+						"y": 149,
+						"w": 37,
+						"h": 44
+					}
+				},
+				{
+					"filename": "sword.img/27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 104,
+						"y": 152,
+						"w": 39,
+						"h": 41
+					},
+					"frame": {
+						"x": 1456,
+						"y": 153,
+						"w": 39,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/107",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 151,
+						"w": 32,
+						"h": 42
+					},
+					"frame": {
+						"x": 1497,
+						"y": 153,
+						"w": 32,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 146,
+						"w": 32,
+						"h": 45
+					},
+					"frame": {
+						"x": 1531,
+						"y": 151,
+						"w": 32,
+						"h": 45
+					}
+				},
+				{
+					"filename": "sword.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 146,
+						"w": 35,
+						"h": 46
+					},
+					"frame": {
+						"x": 1565,
+						"y": 148,
+						"w": 35,
+						"h": 46
+					}
+				},
+				{
+					"filename": "sword.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 145,
+						"w": 32,
+						"h": 46
+					},
+					"frame": {
+						"x": 1602,
+						"y": 147,
+						"w": 32,
+						"h": 46
+					}
+				},
+				{
+					"filename": "sword.img/36",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 145,
+						"w": 37,
+						"h": 44
+					},
+					"frame": {
+						"x": 1636,
+						"y": 143,
+						"w": 37,
+						"h": 44
+					}
+				},
+				{
+					"filename": "sword.img/62",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 147,
+						"w": 37,
+						"h": 44
+					},
+					"frame": {
+						"x": 1675,
+						"y": 143,
+						"w": 37,
+						"h": 44
+					}
+				},
+				{
+					"filename": "sword.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 146,
+						"w": 35,
+						"h": 46
+					},
+					"frame": {
+						"x": 1714,
+						"y": 143,
+						"w": 35,
+						"h": 46
+					}
+				},
+				{
+					"filename": "sword.img/42",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 138,
+						"y": 151,
+						"w": 38,
+						"h": 41
+					},
+					"frame": {
+						"x": 1751,
+						"y": 149,
+						"w": 38,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/108",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 151,
+						"w": 30,
+						"h": 42
+					},
+					"frame": {
+						"x": 1064,
+						"y": 199,
+						"w": 30,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/110",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 151,
+						"w": 30,
+						"h": 42
+					},
+					"frame": {
+						"x": 1064,
+						"y": 199,
+						"w": 30,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/112",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 151,
+						"w": 30,
+						"h": 42
+					},
+					"frame": {
+						"x": 1064,
+						"y": 199,
+						"w": 30,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/114",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 151,
+						"w": 30,
+						"h": 42
+					},
+					"frame": {
+						"x": 1064,
+						"y": 199,
+						"w": 30,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/116",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 151,
+						"w": 30,
+						"h": 42
+					},
+					"frame": {
+						"x": 1064,
+						"y": 199,
+						"w": 30,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/63",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 147,
+						"w": 37,
+						"h": 44
+					},
+					"frame": {
+						"x": 1096,
+						"y": 198,
+						"w": 37,
+						"h": 44
+					}
+				},
+				{
+					"filename": "sword.img/25",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 146,
+						"w": 34,
+						"h": 44
+					},
+					"frame": {
+						"x": 1135,
+						"y": 198,
+						"w": 34,
+						"h": 44
+					}
+				},
+				{
+					"filename": "sword.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 145,
+						"w": 32,
+						"h": 46
+					},
+					"frame": {
+						"x": 1171,
+						"y": 197,
+						"w": 32,
+						"h": 46
+					}
+				},
+				{
+					"filename": "sword.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 146,
+						"w": 36,
+						"h": 45
+					},
+					"frame": {
+						"x": 1205,
+						"y": 195,
+						"w": 36,
+						"h": 45
+					}
+				},
+				{
+					"filename": "sword.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 145,
+						"w": 36,
+						"h": 45
+					},
+					"frame": {
+						"x": 1243,
+						"y": 195,
+						"w": 36,
+						"h": 45
+					}
+				},
+				{
+					"filename": "sword.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 145,
+						"w": 32,
+						"h": 46
+					},
+					"frame": {
+						"x": 1281,
+						"y": 195,
+						"w": 32,
+						"h": 46
+					}
+				},
+				{
+					"filename": "sword.img/65",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 151,
+						"w": 36,
+						"h": 43
+					},
+					"frame": {
+						"x": 1315,
+						"y": 196,
+						"w": 36,
+						"h": 43
+					}
+				},
+				{
+					"filename": "sword.img/66",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 149,
+						"w": 36,
+						"h": 42
+					},
+					"frame": {
+						"x": 1353,
+						"y": 196,
+						"w": 36,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/109",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 151,
+						"w": 31,
+						"h": 42
+					},
+					"frame": {
+						"x": 1391,
+						"y": 196,
+						"w": 31,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/111",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 151,
+						"w": 31,
+						"h": 42
+					},
+					"frame": {
+						"x": 1391,
+						"y": 196,
+						"w": 31,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/113",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 151,
+						"w": 31,
+						"h": 42
+					},
+					"frame": {
+						"x": 1391,
+						"y": 196,
+						"w": 31,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/115",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 151,
+						"w": 31,
+						"h": 42
+					},
+					"frame": {
+						"x": 1391,
+						"y": 196,
+						"w": 31,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/35",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 148,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 1424,
+						"y": 196,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/33",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 152,
+						"w": 33,
+						"h": 42
+					},
+					"frame": {
+						"x": 1462,
+						"y": 196,
+						"w": 33,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/52",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 149,
+						"w": 36,
+						"h": 41
+					},
+					"frame": {
+						"x": 1497,
+						"y": 198,
+						"w": 36,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/43",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 140,
+						"y": 151,
+						"w": 35,
+						"h": 41
+					},
+					"frame": {
+						"x": 1535,
+						"y": 198,
+						"w": 35,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/47",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 138,
+						"y": 149,
+						"w": 34,
+						"h": 42
+					},
+					"frame": {
+						"x": 1572,
+						"y": 196,
+						"w": 34,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/51",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 148,
+						"w": 34,
+						"h": 42
+					},
+					"frame": {
+						"x": 1572,
+						"y": 196,
+						"w": 34,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/50",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 137,
+						"y": 151,
+						"w": 34,
+						"h": 42
+					},
+					"frame": {
+						"x": 1608,
+						"y": 195,
+						"w": 34,
+						"h": 42
+					}
+				},
+				{
+					"filename": "sword.img/44",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 143,
+						"y": 151,
+						"w": 33,
+						"h": 41
+					},
+					"frame": {
+						"x": 1644,
+						"y": 189,
+						"w": 33,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/45",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 144,
+						"y": 151,
+						"w": 33,
+						"h": 41
+					},
+					"frame": {
+						"x": 1679,
+						"y": 189,
+						"w": 33,
+						"h": 41
+					}
+				},
+				{
+					"filename": "sword.img/46",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 151,
+						"w": 33,
+						"h": 41
+					},
+					"frame": {
+						"x": 1714,
+						"y": 191,
+						"w": 33,
+						"h": 41
+					}
+				},
+				{
+					"filename": "star.img/0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 11,
+						"h": 11
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 11,
+						"h": 11
+					},
+					"frame": {
+						"x": 1424,
+						"y": 239,
+						"w": 11,
+						"h": 11
+					}
+				},
+				{
+					"filename": "call_lemures.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_lemures.img/27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_lemures.img/28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_lemures.img/29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_lemures.img/30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_lemures.img/31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_lemures.img/32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/27",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/28",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/29",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/30",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/31",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "call_sword.img/32",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/0",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/10",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/11",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/12",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/13",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/136",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/14",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/144",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/145",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/146",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/147",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/148",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/149",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/15",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/16",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/17",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/18",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/19",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/20",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/21",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/22",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/23",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/24",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/39",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/40",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/41",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/5",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/6",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/7",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/8",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/82",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/83",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/84",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/85",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/86",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/87",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/88",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/89",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/9",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/90",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/91",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/92",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/93",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/94",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/95",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/96",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/97",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/98",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "lemures.img/99",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/100",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/101",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/102",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/103",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/104",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/105",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/106",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/82",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/83",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/84",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/85",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/86",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/87",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/88",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/89",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/90",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/91",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/92",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/93",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/94",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/95",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/96",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/97",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/98",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				},
+				{
+					"filename": "sword.img/99",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 609,
+						"y": 46,
+						"w": 3,
+						"h": 3
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:644bf9f11e8b3b4b6444e3002a898510:91cc339410e36efd4ea0ba09d302c3a1:00aceb6c77c7d0f3ba29f6886fa8b42f$"
+	}
+}
